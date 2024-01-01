@@ -1,0 +1,30 @@
+{
+  "version": "Version 1.4.1",
+  "Introduced": [
+    "New Dashboard with layout importer."
+  ],
+  "Added": [
+    "Advanced Gallery - Dynamic gallery item through media category.",
+    "Advanced Gallery - Multiselect category option which will be ordered.",
+    "Advanced Gallery - Toggle for hide all option in filtering mode.",
+    "Page category for managing pages for layout & other purpose."
+  ],
+  "Improved": [
+    "Popup - Popup will preview and display on blank template.",
+    "Popup - Added support for WPML.",
+    "CPT - Search query conflict with main query resolved."
+  ],
+  "Fixed": [
+    "CPT - Category ordering & sorting issues handled.",
+    "CPT - Taxonomy issue with load more & navigation handled.",
+    "Logo Carousel - Blank image markup display issue resolved.",
+    "Image Carousel - Blank image markup display issue resolved.",
+    "WPFORMS - Form loading issues resolved on VB.",
+    "FAQ - Active item order anomaly resolved.",
+    "Menu Dashboard unmount issue resolved.",
+    "Device detect library conflict resolved.",
+    "Dual Button - Typo handled in wording.",
+    "Popup - Popup close with mobile device handled.",
+    "Popup - Handled video element controls."
+  ]
+}
