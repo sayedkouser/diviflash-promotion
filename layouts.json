@@ -25,6 +25,7 @@
     "demo_url": "https://layouts.diviflash.xyz/barber-shop/",
     "package_url": "https://layouts.diviflash.xyz/barber-shop/wp-content/uploads/sites/32/2023/12/diviflash_barber_shop_layout_pack.zip",
     "download_url": "https://layouts.diviflash.xyz/barber-shop/wp-content/uploads/sites/32/2023/12/Barber-Shop-Layout-Pack-DiviFlash-1.zip",
+    "page_categories": "Barber Shop",
     "doc_link": "https://diviflash.com/docs/barber-shop/",
     "menu_instruction": {
       "list": "Home, About, Services(child menu: Haircut Style), Gallery, Blog"
@@ -40,6 +41,7 @@
     "demo_url": "https://layouts.diviflash.xyz/spa/",
     "package_url": "https://layouts.diviflash.xyz/spa/wp-content/uploads/sites/31/2023/12/diviflash_spa_layout_pack.zip",
     "download_url": "https://layouts.diviflash.xyz/spa/wp-content/uploads/sites/31/2023/08/SPA-Layout-Pack-DiviFlash.zip",
+    "page_categories": "SPA",
     "doc_link": "https://diviflash.com/docs/spa/",
     "menu_instruction": {
       "list": "Home, About, Services(child menu: Body Massage), Gallery, Blog, Contact"
@@ -55,6 +57,7 @@
     "demo_url": "https://layouts.diviflash.xyz/podcast/",
     "package_url": "https://layouts.diviflash.xyz/podcast/wp-content/uploads/sites/30/2023/12/diviflash_podcast_layout_pack.zip",
     "download_url": "https://layouts.diviflash.xyz/podcast/wp-content/uploads/sites/30/2023/08/Podcast-Layout-DiviFlash.zip",
+    "page_categories": "Podcast",
     "doc_link": "https://diviflash.com/docs/podcast/",
     "menu_instruction": {
       "list": "Home, About, Episodes, Blog, Contact"
@@ -70,6 +73,7 @@
     "demo_url": "https://layouts.diviflash.xyz/logistics/",
     "package_url": "https://layouts.diviflash.xyz/logistics/wp-content/uploads/sites/29/2023/12/diviflash_logistics_layout_pack.zip",
     "download_url": "https://layouts.diviflash.xyz/logistics/wp-content/uploads/sites/29/2023/07/Logistics-Layout-DiviFlash.zip",
+    "page_categories": "Logistics",
     "plugins": [
       "wpforms"
     ],
@@ -91,6 +95,7 @@
     "demo_url": "https://layouts.diviflash.xyz/seo/",
     "package_url": "https://layouts.diviflash.xyz/seo/wp-content/uploads/sites/28/2023/12/diviflash_seo_layout_pack.zip",
     "download_url": "https://layouts.diviflash.xyz/seo/wp-content/uploads/sites/28/2023/07/SEO-Layout-DiviFlash.zip",
+    "page_categories": "SEO",
     "doc_link": "https://diviflash.com/docs/seo/",
     "menu_instruction": {
       "list": "Home, About, Services(child menu: Mega menu Library), Blog, Contact"
@@ -107,6 +112,7 @@
     "details_url": "https://layouts.diviflash.xyz/accountant/",
     "package_url": "https://layouts.diviflash.xyz/accountant/wp-content/uploads/sites/27/2023/12/diviflash_accountant_layout_pack.zip",
     "download_url": "https://layouts.diviflash.xyz/accountant/wp-content/uploads/sites/27/2023/07/Accountant-Layout-DiviFlash.zip",
+    "page_categories": "Accountant",
     "doc_link": "https://diviflash.com/docs/accountant/",
     "menu_instruction": {
       "list": "Accouonting Services(child menu: Audit & assurance), About, News & Media"
@@ -122,6 +128,7 @@
     "demo_url": "https://layouts.diviflash.xyz/ai/",
     "package_url": "https://layouts.diviflash.xyz/ai/wp-content/uploads/sites/26/2023/12/diviflash_ai_layout_pack.zip",
     "download_url": "https://layouts.diviflash.xyz/ai/wp-content/uploads/sites/26/2023/06/AI-Layout-DiviFlash.zip",
+    "page_categories": "AI",
     "doc_link": "https://diviflash.com/docs/ai/",
     "menu_instruction": {
       "list": "Home, About, Services(child menu: Service Details), Blog"
@@ -137,6 +144,7 @@
     "demo_url": "https://layouts.diviflash.xyz/charity/",
     "package_url": "https://layouts.diviflash.xyz/charity/wp-content/uploads/sites/23/2023/12/diviflash_charity_layout_pack.zip",
     "download_url": "https://layouts.diviflash.xyz/charity/wp-content/uploads/sites/23/2023/05/charity-layout-DiviFlash.zip",
+    "page_categories": "Charity",
     "plugins": [
       "cpt_ui",
       "acf",
@@ -157,6 +165,7 @@
     "demo_url": "https://layouts.diviflash.xyz/fitness/",
     "package_url": "https://layouts.diviflash.xyz/fitness/wp-content/uploads/sites/25/2023/12/diviflash_fitness_layout_pack.zip",
     "download_url": "https://layouts.diviflash.xyz/fitness/wp-content/uploads/sites/25/2023/06/Fitness-Gym-Layout-DiviFlash.zip",
+    "page_categories": "Fitness",
     "plugins": [
       "contact_form7"
     ],
@@ -175,6 +184,7 @@
     "demo_url": "https://layouts.diviflash.xyz/real-estate/",
     "package_url": "https://layouts.diviflash.xyz/real-estate/wp-content/uploads/sites/22/2023/12/diviflash_real_estate_layout_pack.zip",
     "download_url": "https://layouts.diviflash.xyz/real-estate/wp-content/uploads/sites/22/2023/05/Real-Estate-Layout-DiviFlash.zip",
+    "page_categories": "Real Estate",
     "plugins": [
       "cpt_ui",
       "acf"
@@ -197,6 +207,7 @@
     "demo_url": "https://layouts.diviflash.xyz/roofing/",
     "package_url": "https://layouts.diviflash.xyz/roofing/wp-content/uploads/sites/24/2023/12/diviflash_roofing_layout_pack.zip",
     "download_url": "https://layouts.diviflash.xyz/roofing/wp-content/uploads/sites/24/2023/05/Roofing-Layout-DiviFlash.zip",
+    "page_categories": "Roofing",
     "plugins": [
       "contact_form7"
     ],
@@ -215,6 +226,7 @@
     "demo_url": "https://layouts.diviflash.xyz/restaurant/",
     "package_url": "https://layouts.diviflash.xyz/restaurant/wp-content/uploads/sites/21/2023/12/diviflash_restaurant_layout_pack.zip",
     "download_url": "https://layouts.diviflash.xyz/restaurant/wp-content/uploads/sites/21/2023/10/Restaurant-Layout-DiviFlash.zip",
+    "page_categories": "Restaurant",
     "doc_link": "https://diviflash.com/docs/restaurant/",
     "menu_instruction": {
       "list": "Home, Pages(child menu: About us, Meet Our Chefs, 404 page, Book A Table), Menu, Blog, Contact, Order Online",
@@ -233,6 +245,7 @@
     "demo_url": "https://layouts.diviflash.xyz/digital-agency/",
     "package_url": "https://layouts.diviflash.xyz/digital-agency/wp-content/uploads/sites/13/2023/12/diviflash_digital_agency_layout_pack.zip",
     "download_url": "https://layouts.diviflash.xyz/digital-agency/wp-content/uploads/sites/13/2023/01/Digital-Agency-Layout-DiviFlash.zip",
+    "page_categories": "Digital Agency",
     "doc_link": "https://www.diviflash.com/docs-category/layouts/",
     "menu_instruction": {
       "list": "Home, About, Service, Portfolio, Contact"
@@ -248,6 +261,7 @@
     "demo_url": "https://layouts.diviflash.xyz/hosting/",
     "package_url": "https://layouts.diviflash.xyz/hosting/wp-content/uploads/sites/19/2023/12/diviflash_hosting_layout_pack.zip",
     "download_url": "https://layouts.diviflash.xyz/hosting/wp-content/uploads/sites/19/2023/01/Hosting-Layout-DiviFlash.zip",
+    "page_categories": "Hosting",
     "plugins_pro": [
       "monarch"
     ],
@@ -269,6 +283,7 @@
     "demo_url": "https://layouts.diviflash.xyz/ebook/",
     "package_url": "https://layouts.diviflash.xyz/ebook/wp-content/uploads/sites/20/2023/12/diviflash_ebook_layout_pack.zip",
     "download_url": "https://layouts.diviflash.xyz/ebook/wp-content/uploads/sites/20/2023/01/Ebook-Layout-DiviFlash.zip",
+    "page_categories": "eBook",
     "doc_link": "https://www.diviflash.com/docs-category/layouts/",
     "menu_instruction": {
       "list": "Home, Feature, Chapters, About Author, Testimonial, Contact",
@@ -287,6 +302,7 @@
     "demo_url": "https://layouts.diviflash.xyz/consulting/",
     "package_url": "https://layouts.diviflash.xyz/consulting/wp-content/uploads/sites/18/2023/12/diviflash_consultant_layout_pack.zip",
     "download_url": "https://layouts.diviflash.xyz/consulting/wp-content/uploads/sites/18/2023/01/Consultant-Layout-DiviFlash.zip",
+    "page_categories": "Consultant",
     "doc_link": "https://diviflash.com/docs/consulting/",
     "menu_instruction": {
       "list": "Home, About us, Services, Case Studies, Blog, Contact"
@@ -302,6 +318,7 @@
     "demo_url": "https://layouts.diviflash.xyz/black-friday/",
     "package_url": "https://layouts.diviflash.xyz/black-friday/wp-content/uploads/sites/16/2023/12/diviflash_black_friday_layout_pack.zip",
     "download_url": "https://layouts.diviflash.xyz/black-friday/wp-content/uploads/sites/16/2023/01/Black-Friday-Layout-DiviFlash.zip",
+    "page_categories": "Black Friday",
     "doc_link": "https://diviflash.com/docs/black-friday-3/"
   },
   {
@@ -314,6 +331,7 @@
     "demo_url": "https://layouts.diviflash.xyz/cv-resume/",
     "package_url": "https://layouts.diviflash.xyz/cv-resume/wp-content/uploads/sites/15/2023/12/diviflash_cv_resume_layout_pack.zip",
     "download_url": "https://layouts.diviflash.xyz/cv-resume/wp-content/uploads/sites/15/2023/03/cv-resume-layout.zip",
+    "page_categories": "CV Resume",
     "doc_link": "https://www.diviflash.com/docs-category/layouts/",
     "menu_instruction": {
       "list": "Home, Skills, Service, Experience, Portfolio, Testimonials, Contact, Download CV",
@@ -332,6 +350,7 @@
     "demo_url": "https://layouts.diviflash.xyz/construction/",
     "package_url": "https://layouts.diviflash.xyz/construction/wp-content/uploads/sites/17/2023/12/diviflash_construction_layout_pack.zip",
     "download_url": "https://layouts.diviflash.xyz/construction/wp-content/uploads/sites/17/2023/01/Construction-Layout-DiviFlash-1.zip",
+    "page_categories": "Construction",
     "doc_link": "https://diviflash.com/docs/construction/",
     "menu_instruction": {
       "list": "Home, About Us, Our Services(child menu: Construction, Renovation, Architecture, Interior Designing, Roofing, Walkways), Blog, Contact, Get a quote",
@@ -350,6 +369,7 @@
     "demo_url": "https://layouts.diviflash.xyz/coffee/",
     "package_url": "https://layouts.diviflash.xyz/coffee/wp-content/uploads/sites/12/2023/12/diviflash_coffee_layout_pack.zip",
     "download_url": "https://layouts.diviflash.xyz/coffee/wp-content/uploads/sites/12/2023/01/Coffee-Layout-DiviFlash.zip",
+    "page_categories": "Coffee",
     "doc_link": "https://diviflash.com/docs/coffee-shop/",
     "menu_instruction": {
       "list": "Home, About, Menu, Review, Blog, Contact"
@@ -365,6 +385,7 @@
     "demo_url": "https://layouts.diviflash.xyz/appecho/",
     "package_url": "https://layouts.diviflash.xyz/appecho/wp-content/uploads/sites/14/2023/12/diviflash_appecho_layout_pack.zip",
     "download_url": "https://layouts.diviflash.xyz/appecho/wp-content/uploads/sites/14/2023/01/Appecho-Layout-DiviFlash.zip",
+    "page_categories": "Appecho",
     "doc_link": "https://diviflash.com/docs/appecho/",
     "menu_instruction": {
       "list": "Home, About, Features, Pricing, Contact, Download",
@@ -383,6 +404,7 @@
     "demo_url": "https://layouts.diviflash.xyz/medipulse/",
     "package_url": "https://layouts.diviflash.xyz/medipulse/wp-content/uploads/sites/10/2023/12/diviflash_medipulse_layout_pack.zip",
     "download_url": "https://layouts.diviflash.xyz/medipulse/wp-content/uploads/sites/10/2023/01/MediPulse-Layout-DiviFlash.zip",
+    "page_categories": "Medipulse",
     "doc_link": "https://diviflash.com/docs/medical/",
     "menu_instruction": {
       "list": "Home, About Us, Services, Departments, Blog, Contact Us"
@@ -398,6 +420,7 @@
     "demo_url": "https://layouts.diviflash.xyz/lawfirm/",
     "package_url": "https://layouts.diviflash.xyz/lawfirm/wp-content/uploads/sites/11/2023/12/diviflash_law_firm_layout_pack.zip",
     "download_url": "https://layouts.diviflash.xyz/lawfirm/wp-content/uploads/sites/11/2023/01/Law-Firm-Layout-DiviFlash.zip",
+    "page_categories": "Lawfirm",
     "doc_link": "https://diviflash.com/docs/law-firm/",
     "menu_instruction": {
       "list": "Home, About Us, Services(child menu: Criminal Law, Family Law, Technology Law, Real Estate Law, International Law, Financial Law), Blog, Contact Us"
@@ -413,6 +436,7 @@
     "demo_url": "https://layouts.diviflash.xyz/saas/",
     "package_url": "https://layouts.diviflash.xyz/saas/wp-content/uploads/sites/9/2023/12/diviflash_saas_layout_pack.zip",
     "download_url": "https://layouts.diviflash.xyz/saas/wp-content/uploads/sites/9/2023/01/Saas-Layout-DiviFlash.zip",
+    "page_categories": "Saas",
     "doc_link": "https://diviflash.com/docs/saas/",
     "menu_instruction": {
       "list": "Home, Feature, About, Price, Contact, Download App",
@@ -431,6 +455,7 @@
     "demo_url": "https://layouts.diviflash.xyz/agency/",
     "package_url": "https://layouts.diviflash.xyz/agency/wp-content/uploads/sites/8/2023/12/diviflash_agency_layout_pack.zip",
     "download_url": "https://layouts.diviflash.xyz/agency/wp-content/uploads/sites/8/2023/01/Agency-Layout-DiviFlash.zip",
+    "page_categories": "Agency",
     "doc_link": "https://diviflash.com/docs/agency/",
     "menu_instruction": {
       "list": "Home, About Us, Services, Our Work, Blog, Contact Us, Login"
@@ -446,6 +471,7 @@
     "demo_url": "https://layouts.diviflash.xyz/photography/",
     "package_url": "https://layouts.diviflash.xyz/photography/wp-content/uploads/sites/6/2023/12/diviflash_photography_layout_pack.zip",
     "download_url": "https://layouts.diviflash.xyz/photography/wp-content/uploads/sites/6/2023/01/Photography-layout-DiviFlash.zip",
+    "page_categories": "Photography",
     "doc_link": "https://diviflash.com/docs/photography/",
     "menu_instruction": {
       "list": "Home, About Us, Services, Galleries, Testimonials, Contact Us"
@@ -461,6 +487,7 @@
     "demo_url": "https://layouts.diviflash.xyz/business/",
     "package_url": "https://layouts.diviflash.xyz/business/wp-content/uploads/sites/4/2023/12/diviflash_business_layout_pack.zip",
     "download_url": "https://layouts.diviflash.xyz/business/wp-content/uploads/sites/4/2023/01/Business-Layout-DiviFlash.zip",
+    "page_categories": "Business",
     "doc_link": "https://www.diviflash.com/docs-category/layouts/",
     "menu_instruction": {
       "list": "Home, About Us, Services, Clients, Blog, Contact Us"
