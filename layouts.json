@@ -180,7 +180,7 @@
     "name": "Real Estate",
     "package_name": "Real Estate Layout Packs",
     "description": "Website designs for real estate agencies, featuring property listings, agent bios, and search functionality.",
-    "thumb": "https://diviflash.com/wp-content/uploads/2023/05/Divi-Real-Estate-Layout-Packs.jpg.webp",
+    "thumb": "https://diviflash.com/wp-content/uploads/2024/01/Divi-Real-Estate-Layout-Packs.png",
     "demo_url": "https://layouts.diviflash.xyz/real-estate/",
     "package_url": "https://layouts.diviflash.xyz/real-estate/wp-content/uploads/sites/22/2023/12/diviflash_real_estate_layout_pack.zip",
     "download_url": "https://layouts.diviflash.xyz/real-estate/wp-content/uploads/sites/22/2023/05/Real-Estate-Layout-DiviFlash.zip",
@@ -440,9 +440,10 @@
     "doc_link": "https://diviflash.com/docs/saas/",
     "menu_instruction": {
       "list": "Home, Feature, About, Price, Contact, Download App",
-      "classes": [
-        "Include class 'download - app' with 'Download App' menu."
-      ]
+      "classes": {
+        "Download App" : ["download-app"]
+      }
+      
     }
   },
   {
