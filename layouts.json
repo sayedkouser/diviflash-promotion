@@ -192,9 +192,9 @@
     "doc_link": "https://diviflash.com/docs/real-estate/",
     "menu_instruction": {
       "list": "Home, Pages(child menu: About us, Services, Agent List, Agent Profile, 404 Page), Property, Blog, Contact, Mobile number",
-      "classes": [
-        "Include class 'menu_button' with 'Mobile number' menu."
-      ]
+      "classes": {
+        "Mobile number" : ["menu_button"]
+      }
     }
   },
   {
@@ -230,9 +230,9 @@
     "doc_link": "https://diviflash.com/docs/restaurant/",
     "menu_instruction": {
       "list": "Home, Pages(child menu: About us, Meet Our Chefs, 404 page, Book A Table), Menu, Blog, Contact, Order Online",
-      "classes": [
-        "Include class 'menubtn_order' with 'Order Online' menu."
-      ]
+      "classes": {
+        "Order Online" : ["menubtn_order"]
+      }
     }
   },
   {
@@ -268,9 +268,9 @@
     "doc_link": "https://diviflash.com/docs/hosting/",
     "menu_instruction": {
       "list": "Home, Pages(child menu: About us, Pricing, Testimonial, Contact, 404 page), Hosting, Domain, Blog, Login",
-      "classes": [
-        "Include class 'menu_button' with 'Login' menu."
-      ]
+      "classes": {
+        "Login" : ["menu_button"]
+      }
     }
   },
   {
@@ -287,9 +287,9 @@
     "doc_link": "https://www.diviflash.com/docs-category/layouts/",
     "menu_instruction": {
       "list": "Home, Feature, Chapters, About Author, Testimonial, Contact",
-      "classes": [
-        "Include class 'df - menu - active' with 'Home' menu."
-      ]
+      "classes": {
+        "Home" : ["df-menu"]
+      }
     }
   },
   {
@@ -335,9 +335,9 @@
     "doc_link": "https://www.diviflash.com/docs-category/layouts/",
     "menu_instruction": {
       "list": "Home, Skills, Service, Experience, Portfolio, Testimonials, Contact, Download CV",
-      "classes": [
-        "Include class 'download_btn' with 'Download CV' menu."
-      ]
+      "classes": {
+        "Download CV" : ["download_btn"]
+      }
     }
   },
   {
@@ -354,9 +354,9 @@
     "doc_link": "https://diviflash.com/docs/construction/",
     "menu_instruction": {
       "list": "Home, About Us, Our Services(child menu: Construction, Renovation, Architecture, Interior Designing, Roofing, Walkways), Blog, Contact, Get a quote",
-      "classes": [
-        "Include class 'get_quote' with 'Get a quote' menu."
-      ]
+      "classes": {
+        "Get a quote" : ["get_quote"]
+      }
     }
   },
   {
@@ -389,9 +389,9 @@
     "doc_link": "https://diviflash.com/docs/appecho/",
     "menu_instruction": {
       "list": "Home, About, Features, Pricing, Contact, Download",
-      "classes": [
-        "Include class 'get_download' with 'Download' menu."
-      ]
+      "classes": {
+        "Download" : ["get_download"]
+      }
     }
   },
   {
