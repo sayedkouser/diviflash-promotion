@@ -12,7 +12,15 @@
     "page_categories": "Pet Care",
     "doc_link": "https://diviflash.com/docs/pet-care/",
     "menu_instruction": {
-      "list": "Home, About, Services(child menu: Pet Grooming), Pet Adoption, Blog"
+      "list": {
+        "0": "Home",
+        "1": "About",
+        "Services": [
+          "Pet Grooming"
+        ],
+        "2": "Pet Adoption",
+        "3": "Blog"
+      }
     }
   },
   {
@@ -28,7 +36,15 @@
     "page_categories": "Barber Shop",
     "doc_link": "https://diviflash.com/docs/barber-shop/",
     "menu_instruction": {
-      "list": "Home, About, Services(child menu: Haircut Style), Gallery, Blog"
+      "list": {
+        "0": "Home",
+        "1": "About",
+        "Services": [
+          "Haircut Style"
+        ],
+        "2": "Gallery",
+        "3": "Blog"
+      }
     }
   },
   {
@@ -44,7 +60,16 @@
     "page_categories": "SPA",
     "doc_link": "https://diviflash.com/docs/spa/",
     "menu_instruction": {
-      "list": "Home, About, Services(child menu: Body Massage), Gallery, Blog, Contact"
+      "list": {
+        "0": "Home",
+        "1": "About",
+        "Services": [
+          "Body Massage"
+        ],
+        "2": "Gallery",
+        "3": "Blog",
+        "4": "Contact"
+      }
     }
   },
   {
@@ -60,7 +85,13 @@
     "page_categories": "Podcast",
     "doc_link": "https://diviflash.com/docs/podcast/",
     "menu_instruction": {
-      "list": "Home, About, Episodes, Blog, Contact"
+      "list": [
+        "Home",
+        "About",
+        "Episodes",
+        "Blog",
+        "Contact"
+      ]
     }
   },
   {
@@ -82,7 +113,16 @@
     ],
     "doc_link": "https://diviflash.com/docs/logistics/",
     "menu_instruction": {
-      "list": "Home, Company, Services(child menu: Sea Transportation), News & Media, Features, Contact Us"
+      "list": {
+        "0": "Home",
+        "1": "Company",
+        "Services": [
+          "Sea Transportation"
+        ],
+        "2": "News & Media",
+        "3": "Features",
+        "4": "Contact Us"
+      }
     }
   },
   {
@@ -98,7 +138,15 @@
     "page_categories": "SEO",
     "doc_link": "https://diviflash.com/docs/seo/",
     "menu_instruction": {
-      "list": "Home, About, Services(child menu: Mega menu Library), Blog, Contact"
+      "list": {
+        "0": "Home",
+        "1": "About",
+        "Services": [
+          "Mega menu Library"
+        ],
+        "2": "Blog",
+        "3": "Contact"
+      }
     }
   },
   {
@@ -115,7 +163,13 @@
     "page_categories": "Accountant",
     "doc_link": "https://diviflash.com/docs/accountant/",
     "menu_instruction": {
-      "list": "Accouonting Services(child menu: Audit & assurance), About, News & Media"
+      "list": {
+        "Accouonting Services": [
+          "Audit & assurance"
+        ],
+        "0": "About",
+        "1": "News & Media"
+      }
     }
   },
   {
@@ -131,7 +185,14 @@
     "page_categories": "AI",
     "doc_link": "https://diviflash.com/docs/ai/",
     "menu_instruction": {
-      "list": "Home, About, Services(child menu: Service Details), Blog"
+      "list": {
+        "0": "Home",
+        "1": "About",
+        "Services": [
+          "Service Details"
+        ],
+        "2": "Blog"
+      }
     }
   },
   {
@@ -152,7 +213,22 @@
     ],
     "doc_link": "https://diviflash.com/docs/charity/",
     "menu_instruction": {
-      "list": "Home, About, Causes, Pages(child menu: Event, Volunteers, Donors, Our Gallery, Donation, Become A Volunteers, 404 Page), Blog, Contact"
+      "list": {
+        "0": "Home",
+        "1": "About",
+        "2": "Causes",
+        "#Pages": [
+          "Event",
+          "Volunteers",
+          "Donors",
+          "Our Gallery",
+          "Donation",
+          "Become A Volunteers",
+          "404 Page"
+        ],
+        "3": "Blog",
+        "4": "Contact"
+      }
     }
   },
   {
@@ -171,7 +247,14 @@
     ],
     "doc_link": "https://diviflash.com/docs/fitness/",
     "menu_instruction": {
-      "list": "About, Fitness Trainings(child menu: Body Building), Gallery, Contact Us"
+      "list": {
+        "0": "About",
+        "Fitness Trainings": [
+          "Body Building"
+        ],
+        "1": "Gallery",
+        "2": "Contact Us"
+      }
     }
   },
   {
@@ -191,9 +274,24 @@
     ],
     "doc_link": "https://diviflash.com/docs/real-estate/",
     "menu_instruction": {
-      "list": "Home, Pages(child menu: About us, Services, Agent List, Agent Profile, 404 Page), Property, Blog, Contact, Mobile number",
+      "list": {
+        "0": "Home",
+        "#Pages": [
+          "About us",
+          "Services",
+          "Agent List",
+          "Agent Profile",
+          "404 Page"
+        ],
+        "1": "Property",
+        "2": "Blog",
+        "3": "Contact",
+        "4": "Mobile number"
+      },
       "classes": {
-        "Mobile number" : ["menu_button"]
+        "Mobile number": [
+          "menu_button"
+        ]
       }
     }
   },
@@ -213,7 +311,16 @@
     ],
     "doc_link": "https://diviflash.com/docs/roofing/",
     "menu_instruction": {
-      "list": "Home, About, Services(child menu: Service Details), Projects, Blog, Contact"
+      "list": {
+        "0": "Home",
+        "1": "About",
+        "Services": [
+          "Service Details"
+        ],
+        "2": "Projects",
+        "3": "Blog",
+        "4": "Contact"
+      }
     }
   },
   {
@@ -229,9 +336,23 @@
     "page_categories": "Restaurant",
     "doc_link": "https://diviflash.com/docs/restaurant/",
     "menu_instruction": {
-      "list": "Home, Pages(child menu: About us, Meet Our Chefs, 404 page, Book A Table), Menu, Blog, Contact, Order Online",
+      "list": {
+        "0": "Home",
+        "#Pages": [
+          "About us",
+          "Meet Our Chefs",
+          "404 page",
+          "Book A Table"
+        ],
+        "1": "Menu",
+        "2": "Blog",
+        "3": "Contact",
+        "4": "Order Online"
+      },
       "classes": {
-        "Order Online" : ["menubtn_order"]
+        "Order Online": [
+          "menubtn_order"
+        ]
       }
     }
   },
@@ -248,7 +369,13 @@
     "page_categories": "Digital Agency",
     "doc_link": "https://www.diviflash.com/docs-category/layouts/",
     "menu_instruction": {
-      "list": "Home, About, Service, Portfolio, Contact"
+      "list": [
+        "Home",
+        "About",
+        "Service",
+        "Portfolio",
+        "Contact"
+      ]
     }
   },
   {
@@ -267,9 +394,24 @@
     ],
     "doc_link": "https://diviflash.com/docs/hosting/",
     "menu_instruction": {
-      "list": "Home, Pages(child menu: About us, Pricing, Testimonial, Contact, 404 page), Hosting, Domain, Blog, Login",
+      "list": {
+        "0": "Home",
+        "#Pages": [
+          "About us",
+          "Pricing",
+          "Testimonial",
+          "Contact",
+          "404 page"
+        ],
+        "1": "Hosting",
+        "2": "Domain",
+        "3": "Blog",
+        "4": "Login"
+      },
       "classes": {
-        "Login" : ["menu_button"]
+        "Login": [
+          "menu_button"
+        ]
       }
     }
   },
@@ -286,9 +428,18 @@
     "page_categories": "eBook",
     "doc_link": "https://www.diviflash.com/docs-category/layouts/",
     "menu_instruction": {
-      "list": "Home, Feature, Chapters, About Author, Testimonial, Contact",
+      "list": [
+        "Home",
+        "Feature",
+        "Chapters",
+        "About Author",
+        "Testimonial",
+        "Contact"
+      ],
       "classes": {
-        "Home" : ["df-menu"]
+        "Home": [
+          "df-menu"
+        ]
       }
     }
   },
@@ -305,7 +456,14 @@
     "page_categories": "Consultant",
     "doc_link": "https://diviflash.com/docs/consulting/",
     "menu_instruction": {
-      "list": "Home, About us, Services, Case Studies, Blog, Contact"
+      "list": [
+        "Home",
+        "About us",
+        "Services",
+        "Case Studies",
+        "Blog",
+        "Contact"
+      ]
     }
   },
   {
@@ -334,9 +492,20 @@
     "page_categories": "CV Resume",
     "doc_link": "https://www.diviflash.com/docs-category/layouts/",
     "menu_instruction": {
-      "list": "Home, Skills, Service, Experience, Portfolio, Testimonials, Contact, Download CV",
+      "list": [
+        "Home",
+        "Skills",
+        "Service",
+        "Experience",
+        "Portfolio",
+        "Testimonials",
+        "Contact",
+        "Download CV"
+      ],
       "classes": {
-        "Download CV" : ["download_btn"]
+        "Download CV": [
+          "download_btn"
+        ]
       }
     }
   },
@@ -353,9 +522,25 @@
     "page_categories": "Construction",
     "doc_link": "https://diviflash.com/docs/construction/",
     "menu_instruction": {
-      "list": "Home, About Us, Our Services(child menu: Construction, Renovation, Architecture, Interior Designing, Roofing, Walkways), Blog, Contact, Get a quote",
+      "list": {
+        "0": "Home",
+        "1": "About Us",
+        "Our Services": [
+          "Construction",
+          "#Renovation",
+          "#Architecture",
+          "#Interior Designing",
+          "#Roofing",
+          "#Walkways"
+        ],
+        "2": "Blog",
+        "3": "Contact",
+        "4": "Get a quote"
+      },
       "classes": {
-        "Get a quote" : ["get_quote"]
+        "Get a quote": [
+          "get_quote"
+        ]
       }
     }
   },
@@ -372,7 +557,14 @@
     "page_categories": "Coffee",
     "doc_link": "https://diviflash.com/docs/coffee-shop/",
     "menu_instruction": {
-      "list": "Home, About, Menu, Review, Blog, Contact"
+      "list": [
+        "Home",
+        "About",
+        "Menu",
+        "Review",
+        "Blog",
+        "Contact"
+      ]
     }
   },
   {
@@ -388,9 +580,18 @@
     "page_categories": "Appecho",
     "doc_link": "https://diviflash.com/docs/appecho/",
     "menu_instruction": {
-      "list": "Home, About, Features, Pricing, Contact, Download",
+      "list": [
+        "Home",
+        "About",
+        "Features",
+        "Pricing",
+        "Contact",
+        "Download"
+      ],
       "classes": {
-        "Download" : ["get_download"]
+        "Download": [
+          "get_download"
+        ]
       }
     }
   },
@@ -407,7 +608,14 @@
     "page_categories": "Medipulse",
     "doc_link": "https://diviflash.com/docs/medical/",
     "menu_instruction": {
-      "list": "Home, About Us, Services, Departments, Blog, Contact Us"
+      "list": [
+        "Home",
+        "About Us",
+        "Services",
+        "Departments",
+        "Blog",
+        "Contact Us"
+      ]
     }
   },
   {
@@ -423,7 +631,20 @@
     "page_categories": "Lawfirm",
     "doc_link": "https://diviflash.com/docs/law-firm/",
     "menu_instruction": {
-      "list": "Home, About Us, Services(child menu: Criminal Law, Family Law, Technology Law, Real Estate Law, International Law, Financial Law), Blog, Contact Us"
+      "list": {
+        "0": "Home",
+        "1": "About Us",
+        "Services": [
+          "Criminal Law",
+          "Family Law",
+          "Technology Law",
+          "Real Estate Law",
+          "International Law",
+          "Financial Law"
+        ],
+        "2": "Blog",
+        "3": "Contact Us"
+      }
     }
   },
   {
@@ -439,11 +660,19 @@
     "page_categories": "Saas",
     "doc_link": "https://diviflash.com/docs/saas/",
     "menu_instruction": {
-      "list": "Home, Feature, About, Price, Contact, Download App",
+      "list": [
+        "Home",
+        "Feature",
+        "About",
+        "Price",
+        "Contact",
+        "Download App"
+      ],
       "classes": {
-        "Download App" : ["download-app"]
+        "Download App": [
+          "download-app"
+        ]
       }
-      
     }
   },
   {
@@ -459,7 +688,15 @@
     "page_categories": "Agency",
     "doc_link": "https://diviflash.com/docs/agency/",
     "menu_instruction": {
-      "list": "Home, About Us, Services, Our Work, Blog, Contact Us, Login"
+      "list": [
+        "Home",
+        "About Us",
+        "Services",
+        "Our Work",
+        "Blog",
+        "Contact Us",
+        "Login"
+      ]
     }
   },
   {
@@ -475,7 +712,14 @@
     "page_categories": "Photography",
     "doc_link": "https://diviflash.com/docs/photography/",
     "menu_instruction": {
-      "list": "Home, About Us, Services, Galleries, Testimonials, Contact Us"
+      "list": [
+        "Home",
+        "About Us",
+        "Services",
+        "Galleries",
+        "Testimonials",
+        "Contact Us"
+      ]
     }
   },
   {
@@ -491,7 +735,14 @@
     "page_categories": "Business",
     "doc_link": "https://www.diviflash.com/docs-category/layouts/",
     "menu_instruction": {
-      "list": "Home, About Us, Services, Clients, Blog, Contact Us"
+      "list": [
+        "Home",
+        "About Us",
+        "Services",
+        "Clients",
+        "Blog",
+        "Contact Us"
+      ]
     }
   }
 ]
