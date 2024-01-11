@@ -1,6 +1,6 @@
 [
   {
-    "slug": "pet-care",
+    "slug": "pet_care",
     "version": "1.0.0",
     "name": "Pet Care",
     "package_name": "Pet Care Layout Packs",
@@ -15,7 +15,7 @@
     }
   },
   {
-    "slug": "barber-shop",
+    "slug": "barber_shop",
     "version": "1.0.0",
     "name": "Barber Shop",
     "package_name": "Barber Shop Layout Packs",
@@ -165,7 +165,7 @@
     }
   },
   {
-    "slug": "real-estate",
+    "slug": "real_estate",
     "version": "1.0.0",
     "name": "Real Estate",
     "package_name": "Real Estate Layout Packs",
@@ -223,7 +223,7 @@
     }
   },
   {
-    "slug": "digital-agency",
+    "slug": "digital_agency",
     "version": "1.0.0",
     "name": "Digital Agency",
     "package_name": "Digital Agency Layout Packs",
@@ -292,7 +292,7 @@
     }
   },
   {
-    "slug": "black-friday",
+    "slug": "black_friday",
     "version": "1.0.0",
     "name": "Black Friday",
     "package_name": "Black Friday Layout Packs",
@@ -304,7 +304,7 @@
     "doc_link": "https://diviflash.com/docs/black-friday-3/"
   },
   {
-    "slug": "cv-resume",
+    "slug": "cv_resume",
     "version": "1.0.0",
     "name": "CV Resume",
     "package_name": "CV Resume Layout Packs",
