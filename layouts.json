@@ -1,5 +1,23 @@
 [
   {
+    "slug": "nft",
+    "version": "1.0.0",
+    "name": "NFT",
+    "package_name": "NFT Layout Packs",
+    "description": "Website design for NFT selling platform, featuring live auctions and dedicated pages for categorized NFT collections.",
+    "thumb": "https://diviflash.com/wp-content/uploads/2024/01/NFT-Layout-Packs.png",
+    "demo_url": "https://layouts.diviflash.xyz/nft/",
+    "package_url": "https://layouts.diviflash.xyz/nft/wp-content/uploads/sites/34/2024/01/diviflash_nft_layout_pack.zip",
+    "download_url": "https://layouts.diviflash.xyz/nft/wp-content/uploads/sites/34/2024/01/NFT-Layout-DIviFlash.zip",
+    "plugins": [
+      "acf"
+    ],
+    "doc_link": "https://diviflash.com/docs/nft/",
+    "menu_instruction": {
+      "list": "Home, Explore NFT, About, Blog, Contact"
+    }
+  },
+  {
     "slug": "pet_care",
     "version": "1.0.0",
     "name": "Pet Care",
