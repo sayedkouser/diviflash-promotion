@@ -242,17 +242,17 @@
   },
   {
     "slug": "digital_agency",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "name": "Digital Agency",
     "package_name": "Digital Agency Layout Packs",
     "description": "Single page landing page layout to showcase your portfolio and services.",
     "thumb": "https://diviflash.com/wp-content/uploads/2023/02/Digital-Agency-Layout-Packs.png.webp",
     "demo_url": "https://layouts.diviflash.xyz/digital-agency/",
-    "package_url": "https://layouts.diviflash.xyz/digital-agency/wp-content/uploads/sites/13/2024/01/diviflash_digital_agency_layout_pack.zip",
-    "download_url": "https://layouts.diviflash.xyz/digital-agency/wp-content/uploads/sites/13/2023/01/Digital-Agency-Layout-DiviFlash.zip",
+    "package_url": "https://layouts.diviflash.xyz/digital-agency/wp-content/uploads/sites/13/2024/02/diviflash_digital_agency_layout_pack.zip",
+    "download_url": "https://layouts.diviflash.xyz/digital-agency/wp-content/uploads/sites/13/2024/02/Digital-Agency-Layout-DiviFlash.zip",
     "doc_link": "https://www.diviflash.com/docs-category/layouts/",
     "menu_instruction": {
-      "list": "Home, About, Service, Portfolio, Contact"
+      "list": "#about, #service, #portfolio, #testimonial, #process, #contact"
     }
   },
   {
