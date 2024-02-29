@@ -100,7 +100,7 @@
   },
   {
     "slug": "seo",
-    "version": "2.0.0",
+    "version": "2",
     "name": "SEO",
     "package_name": "SEO Layout Packs",
     "description": "Pre-designed website layouts for SEO agencies or professionals, showcasing services, case studies & testimonials.",
@@ -242,7 +242,7 @@
   },
   {
     "slug": "digital_agency",
-    "version": "2.0.0",
+    "version": "2",
     "name": "Digital Agency",
     "package_name": "Digital Agency Layout Packs",
     "description": "Single page landing page layout to showcase your portfolio and services.",
@@ -341,7 +341,7 @@
   },
   {
     "slug": "construction",
-    "version": "2.0.0",
+    "version": "2",
     "name": "Construction",
     "package_name": "Construction Layout Packs",
     "description": "Website layouts for construction companies or contractors, highlighting past projects and services offered.",
