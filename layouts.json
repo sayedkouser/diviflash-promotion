@@ -295,14 +295,14 @@
     }
   },
   {
-    "slug": "consulting",
+    "slug": "consultant",
     "version": "1.0.0",
     "name": "Consultant",
     "package_name": "Consultant Layout Packs",
     "description": "Pre-made website designs for consultants or coaches, featuring client testimonials and services offered.",
     "thumb": "https://diviflash.com/wp-content/uploads/2023/02/Consultant-Layout-Packs.png.webp",
     "demo_url": "https://layouts.diviflash.xyz/consulting/",
-    "package_url": "https://layouts.diviflash.xyz/consulting/wp-content/uploads/sites/18/2024/02/diviflash_consulting_layout_pack.zip",
+    "package_url": "https://layouts.diviflash.xyz/consulting/wp-content/uploads/sites/18/2024/02/diviflash_consultant_layout_pack.zip",
     "download_url": "https://layouts.diviflash.xyz/consulting/wp-content/uploads/sites/18/2024/02/Consulting-Layout-DiviFlash.zip",
     "doc_link": "https://diviflash.com/docs/consulting/",
     "menu_instruction": {
