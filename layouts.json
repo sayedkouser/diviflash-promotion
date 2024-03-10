@@ -1,5 +1,23 @@
 [
   {
+    "slug": "brewery",
+    "version": "1.0.0",
+    "name": "Brewery",
+    "package_name": "Brewery Layout Packs",
+    "description": "Website design for Brewery selling platform, featuring live auctions and dedicated pages for categorized Brewery collections.",
+    "thumb": "https://diviflash.com/wp-content/uploads/2024/03/Divi-Brewery-Layout-Packs.png",
+    "demo_url": "https://layouts.diviflash.xyz/brewery/",
+    "package_url": "https://layouts.diviflash.xyz/brewery/wp-content/uploads/sites/35/2024/03/diviflash_brewery_layout_pack.zip",
+    "download_url": "https://layouts.diviflash.xyz/brewery/wp-content/uploads/sites/35/2024/03/Brewery-Layout-DiviFlash.zip",
+    "plugins": [
+      "acf"
+    ],
+    "doc_link": "https://diviflash.com/docs/brewery/",
+    "menu_instruction": {
+      "list": "Home, About, Explore Wines, Blog"
+    }
+  },
+  {
     "slug": "nft",
     "version": "1.0.0",
     "name": "NFT",
@@ -104,7 +122,7 @@
     "name": "SEO",
     "package_name": "SEO Layout Packs",
     "description": "Pre-designed website layouts for SEO agencies or professionals, showcasing services, case studies & testimonials.",
-    "thumb": "https://diviflash.com/wp-content/uploads/2024/01/Divi-SEO-Agency-Layout-Packs.png",
+    "thumb": "https://diviflash.com/wp-content/uploads/2024/03/Divi-SEO-Agency-Layout-Packs.png",
     "demo_url": "https://layouts.diviflash.xyz/seo/",
     "package_url": "https://layouts.diviflash.xyz/seo/wp-content/uploads/sites/28/2024/02/diviflash_seo_layout_pack.zip",
     "download_url": "https://layouts.diviflash.xyz/seo/wp-content/uploads/sites/28/2024/02/SEO-Layout-Pack-DiviFlash.zip",
@@ -246,7 +264,7 @@
     "name": "Digital Agency",
     "package_name": "Digital Agency Layout Packs",
     "description": "Single page landing page layout to showcase your portfolio and services.",
-    "thumb": "https://diviflash.com/wp-content/uploads/2023/02/Digital-Agency-Layout-Packs.png.webp",
+    "thumb": "https://diviflash.com/wp-content/uploads/2024/03/Divi-Digital-Agency-Layout-Packs.png",
     "demo_url": "https://layouts.diviflash.xyz/digital-agency/",
     "package_url": "https://layouts.diviflash.xyz/digital-agency/wp-content/uploads/sites/13/2024/02/diviflash_digital_agency_layout_pack.zip",
     "download_url": "https://layouts.diviflash.xyz/digital-agency/wp-content/uploads/sites/13/2024/02/Digital-Agency-Layout-DiviFlash.zip",
@@ -345,7 +363,7 @@
     "name": "Construction",
     "package_name": "Construction Layout Packs",
     "description": "Website layouts for construction companies or contractors, highlighting past projects and services offered.",
-    "thumb": "https://diviflash.com/wp-content/uploads/2023/02/Construction-Layout-Packs.png.webp",
+    "thumb": "https://diviflash.com/wp-content/uploads/2024/03/Divi-Construction-Layout-Packs.png",
     "demo_url": "https://layouts.diviflash.xyz/construction/",
     "package_url": "https://layouts.diviflash.xyz/construction/wp-content/uploads/sites/17/2024/03/diviflash_construction_layout_pack.zip",
     "download_url": "https://layouts.diviflash.xyz/construction/wp-content/uploads/sites/17/2024/02/Construction-Layout-Pack-DiviFlash.zip",
