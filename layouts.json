@@ -1,5 +1,20 @@
 [
   {
+    "slug": "handyman",
+    "version": "1.0.0",
+    "name": "Handyman",
+    "package_name": "Handyman Layout Packs",
+    "description": "Pre-designed website layouts for electric service providers or professionals, highlighting past projects and service details.",
+    "thumb": "https://diviflash.com/wp-content/uploads/2024/03/Handyman-Layout-Packs.png",
+    "demo_url": "https://layouts.diviflash.xyz/handyman/",
+    "package_url": "https://layouts.diviflash.xyz/handyman/wp-content/uploads/sites/36/2024/03/diviflash_handyman_layout_pack.zip",
+    "download_url": "https://layouts.diviflash.xyz/handyman/wp-content/uploads/sites/36/2024/03/Handyman-Layout-DiviFlash.zip",
+    "doc_link": "https://diviflash.com/docs/handyman/",
+    "menu_instruction": {
+      "list": "Home, About Us, Services(child menu: Services Details), Blog, Contact Us"
+    }
+  },
+  {
     "slug": "brewery",
     "version": "1.0.0",
     "name": "Brewery",
@@ -55,7 +70,7 @@
     "version": "1.0.0",
     "name": "Barber Shop",
     "package_name": "Barber Shop Layout Packs",
-    "description": "Pre-built website layouts designs for barber shop owner, featuring services, appointments and about section.",
+    "description": "Pre-built website layouts designs for barber shop owners, featuring services, appointments, and about sections.",
     "thumb": "https://diviflash.com/wp-content/uploads/2024/01/Divi-Barber-Shop-Layout-Packs.png",
     "demo_url": "https://layouts.diviflash.xyz/barber-shop/",
     "package_url": "https://layouts.diviflash.xyz/barber-shop/wp-content/uploads/sites/32/2024/01/diviflash_barber_shop_layout_pack.zip",
