@@ -1,31 +1,54 @@
 {
-  "version": "Version 1.4.1",
-  "date": "Tuesday January 2, 2024",
+  "version": "Version 1.4.3",
+  "date": "Wednesday March 27, 2024",
   "Introduced": [
-    "New Dashboard with layout importer."
+    "TextHighlighter Module",
+    "Menu export import feature added"
   ],
   "Added": [
-    "Advanced Gallery - Dynamic gallery item through media category.",
-    "Advanced Gallery - Multiselect category option which will be ordered.",
-    "Advanced Gallery - Toggle for hide all option in filtering mode.",
-    "Page category for managing pages for layout & other purpose."
+    "Advanced Gallery - Caption and description position (Outside-Top,Bottom) added.",
+    "Advanced Gallery - Image Orientation (Landscape, Portrait) added.",
+    "Advanced Gallery - Icon on hover state added.",
+    "Advanced Gallery - Pagination option added.",
+    "Advanced Gallery - Page change scroll to top",
+    "CPT (Filter, Carousel, Grid) - MetaBox plugin fields support added.",
+    "CPT Filter - ACF field support added for multi-filter.",
+    "CPT Filter - Multiple field types support added for multi-filter.",
+    "CPT Filter - Multi-filter container position added.",
+    "CPT (Filter, Carousel, Grid) - Custom text for before after on taxonomy added.",
+    "CPT (Filter, Carousel, Grid) - Custom taxonomy separator added.",
+    "CPT Filter - Multiple loading animation option added.",
+    "CPT Filter - Load more button hidden control without content.",
+    "CPT ( Filter, Grid ) - Order & Sorting by menu-order added.",
+    "CPT Grid - Scroll to load option added.",
+    "CPT Grid - Loading animation on scroll & on load added."
   ],
   "Improved": [
-    "Popup - Popup will preview and display on blank template.",
-    "Popup - Added support for WPML.",
-    "CPT - Search query conflict with main query resolved."
+    "Dashboard responsive design.",
+    "Layout Importer - Popup import functionality added on layout import.",
+    "Layout Importer - Settings export import option added on dashboard."
   ],
   "Fixed": [
-    "CPT - Category ordering & sorting issues handled.",
-    "CPT - Taxonomy issue with load more & navigation handled.",
-    "Logo Carousel - Blank image markup display issue resolved.",
-    "Image Carousel - Blank image markup display issue resolved.",
-    "WPFORMS - Form loading issues resolved on VB.",
-    "FAQ - Active item order anomaly resolved.",
-    "Menu Dashboard unmount issue resolved.",
-    "Device detect library conflict resolved.",
-    "Dual Button - Typo handled in wording.",
-    "Popup - Popup close with mobile device handled.",
-    "Popup - Handled video element controls."
+    "CPT Filter - Before after text related issues resolved.",
+    "CPT Filter - All search & load more related issues handled.",
+    "CPT Filter - Single post filter field design issues handled.",
+    "CPT Filter - Container issues with multi filter option resolved.",
+    "CPT Filter - Responsive, border & radius related issues resolved.",
+    "CPT Filter - Various Issues with dropdown field.",
+    "Advanced Gallery - Blinking & JS related issues handled",
+    "Fallback license issue resolved.",
+    "Before After Slider - Vertical alignment display issue handled.",
+    "Conflict with learndash editor resolved.",
+    "Extra theme with dashboard issue resolved.",
+    "Popup - Multisite installation issue handled.",
+    "Advanced Gallery - Custom url issue resolved.",
+    "Icon issue with popup-close and FAQ module resolved.",
+    "CPT Grid - Offset not working issue resolved.",
+    "Advanced List - Icon horizontal placement issue fixed.",
+    "Gravity Form Styler - Email & Phone field selector issue added.",
+    "LottiImage - Issue with modal notification resolved.",
+    "Testimonial Carousel - Background image no-repeat handled.",
+    "Post Carousel - Post for current page option not working.",
+    "Breadcrumbs - Issue with maintenance mode handled."
   ]
 }
