@@ -1,5 +1,20 @@
 [
   {
+    "slug": "landscaping",
+    "version": "1.0.0",
+    "name": "Landscaping",
+    "package_name": "Landscaping Layout Packs",
+    "description": "Landscaping website design template for professionals or relevant businesses featuring service details and past projects.",
+    "thumb": "https://diviflash.com/wp-content/uploads/2024/04/Landscaping-Layout-Packs.webp",
+    "demo_url": "https://layouts.diviflash.xyz/landscaping/",
+    "package_url": "https://layouts.diviflash.xyz/landscaping/wp-content/uploads/sites/37/2024/04/diviflash_landscaping_layout_pack.zip",
+    "download_url": "https://layouts.diviflash.xyz/landscaping/wp-content/uploads/sites/37/2024/04/Landscaping-Layout-DiviFlash.zip",
+    "doc_link": "https://diviflash.com/docs/landscaping/",
+    "menu_instruction": {
+      "list": "Home, Landscaping Services(child menu: Services Details), About Us, Projects, Blog, Contact Us"
+    }
+  },
+  {
     "slug": "handyman",
     "version": "1.0.0",
     "name": "Handyman",
