@@ -1,5 +1,20 @@
 [
   {
+    "slug": "freelancer",
+    "version": "1.0.0",
+    "name": "Freelancer",
+    "package_name": "Freelancer Layout Packs",
+    "description": "Pre-built freelancer website template featuring in detailed about page with a dedicated portfolio and service page.",
+    "thumb": "https://diviflash.com/wp-content/uploads/2024/04/Freelancer-Layout-Packs.webp",
+    "demo_url": "https://layouts.diviflash.xyz/freelancer/",
+    "package_url": "https://layouts.diviflash.xyz/freelancer/wp-content/uploads/sites/38/2024/04/diviflash_freelancer_layout_pack.zip",
+    "download_url": "https://layouts.diviflash.xyz/freelancer/wp-content/uploads/sites/38/2024/04/Freelancer-Layout-Packs-DiviFlash.zip",
+    "doc_link": "https://diviflash.com/docs/freelancer/",
+    "menu_instruction": {
+      "list": "Home, Services(child menu: Service Details), About Me, Portfolio, Contact"
+    }
+  },
+  {
     "slug": "landscaping",
     "version": "1.0.0",
     "name": "Landscaping",
@@ -19,7 +34,7 @@
     "version": "1.0.0",
     "name": "Handyman",
     "package_name": "Handyman Layout Packs",
-    "description": "Pre-designed website layouts for electric service providers or professionals, highlighting past projects and service details.",
+    "description": "Website layouts for repair and maintenance service providers or professionals, highlighting past projects and services",
     "thumb": "https://diviflash.com/wp-content/uploads/2024/03/Handyman-Layout-Packs.png",
     "demo_url": "https://layouts.diviflash.xyz/handyman/",
     "package_url": "https://layouts.diviflash.xyz/handyman/wp-content/uploads/sites/36/2024/03/diviflash_handyman_layout_pack.zip",
