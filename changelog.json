@@ -1,6 +1,6 @@
 {
-  "version": "Version 1.4.3",
-  "date": "Wednesday March 27, 2024",
+  "version": "Version 1.4.4",
+  "date": "Tuesday April 30, 2024",
   "Added": [
     "Advanced Menu - Separate design options for every parent-menu and sub-menu.",
     "Taxonomy support added for menu export import.",
