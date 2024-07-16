@@ -24,6 +24,9 @@
     "demo_url": "https://layouts.diviflash.xyz/freelancer/",
     "package_url": "https://layouts.diviflash.xyz/freelancer/wp-content/uploads/sites/38/2024/04/diviflash_freelancer_layout_pack.zip",
     "download_url": "https://layouts.diviflash.xyz/freelancer/wp-content/uploads/sites/38/2024/04/Freelancer-Layout-Packs-DiviFlash.zip",
+    "plugins": [
+      "acf"
+    ],
     "doc_link": "https://diviflash.com/docs/freelancer/",
     "menu_instruction": {
       "list": "Home, Services(child menu: Service Details), About Me, Portfolio, Contact"
