@@ -1,4 +1,19 @@
 [
+    {
+    "slug": "digital_agency_multi_page",
+    "version": "1.0.0",
+    "name": "Digital Agency Multipage",
+    "package_name": "Digital Agency Multipage Packs",
+    "description": "Professionally designed website layouts for digital agencies featuring services and project detail pages.",
+    "thumb": "https://layouts.diviflash.xyz/digital_agency_multi_page/wp-content/uploads/sites/40/2024/08/Digital-Agency-Layout-packs.webp",
+    "demo_url": "https://layouts.diviflash.xyz/digital-agency-multipage/",
+    "package_url": "https://layouts.diviflash.xyz/digital_agency_multi_page/wp-content/uploads/sites/40/2024/08/diviflash_digital_agency_multi_page_layout_pack.zip",
+    "download_url": "https://layouts.diviflash.xyz/digital-agency-multipage/wp-content/uploads/sites/40/2024/08/Digital-Agency-Multipage-Layout-DiviFlash.zip",
+    "doc_link": "https://diviflash.com/docs/digital-agency-multipage/",
+    "menu_instruction": {
+      "list": "Home, Services, About Us, Works, Blog, Contact"
+    }
+    },
   {
     "slug": "yoga",
     "version": "1.0.0",
