@@ -1,37 +1,40 @@
 {
-  "version": "Version 1.4.5",
-  "date": "Monday June 10, 2024",
+  "version": "Version 1.4.6",
+  "date": "Tuesday August 20, 2024",
+  "introduced": [
+    "Back To Top Customizer extension.",
+    "Preloader Customizer extension."
+  ],
   "Added": [
-    "ACF Gallery Module."
+    "Pagination in the Packery Gallery Module.",
+    "Pagination in the Justified Gallery Module."
   ],
   "Improved": [
-    "Advanced DataTable - Rowspan, Colspan added for google sheet.",
-    "CPT Filter - Filter functionality enhanced.",
-    "CPT Filter - Responsive view on smaller device added.",
-    "Testimonial Carousel - Author header tag option added.",
-    "Advanced Tab - Header tag option for nav title text.",
-    "Filterable CPT - Toggle for make clickable entire item."
+    "Filterable CPT - Added a smooth height transition effect when filtering items.",
+    "Hover overlay spacing controller to the Image Gallery.",
+    "Hover overlay spacing controller to the Justified Gallery.",
+    "Close icon to the hamburger menu on mobile when the menu is open.",
+    "Functionality to close the open dropdown menu after clicking a scrollable link in the advanced menu mobile view.",
+    "Controller for setting the default number of entries shown in Data Table pagination.",
+    "Advanced DataTable line break option added for database column."
   ],
   "Fixed": [
-    "Divi builder plugin with other theme issue resolved.",
-    "Mega menu export issue with library item resolved.",
-    "Lottie - Scroll to reveal Issues resolved.",
-    "Menu creation when no menu selected handled.",
-    "Advanced Menu - Search item functionalities handled for all content.",
-    "Admin notices handled for dashboard.",
-    "Advanced Tab - CPT as library item on tab content layout issue handled.",
-    "Post Grid - Author image size not working handled.",
-    "Post Grid - Active pagination style on existing design resolved.",
-    "MarqueeText - Image rendering issue with safari browser handled.",
-    "Post List - Load more button translation issue resolved.",
-    "Advanced Gallery - Lightbox content missing issue resolved.",
-    "Advanced Gallery - Icon on pagination with builder view only handled.",
-    "Advanced Gallery - Content outside option with border issue resolved.",
-    "Flip Box - Animation issues resolved.",
-    "Advanced Tab - PHP warning handled.",
-    "Popup - Target through link url issue resolved.",
-    "CPT Module - PHP warning resolved.",
-    "CPT Grid - Scroll to load issues resolved.",
-    "Module name and icon overlap on TB resolved."
+    "Handled display conditionals for all Custom Post Type (CPT) modules.",
+    "Resolved design issue in the testimonial carousel.",
+    "Condition in ACF Gallery to check if the field is in an array to prevent accidental errors.",
+    "Resolved the issue where the multi-filter in the CPT module wasn't working if only a checkbox was selected.",
+    "Resolved PHP warnings and issues with the ACF Gallery in the theme builder.",
+    "Filterable CPT to dynamically retrieve the parent class.",
+    "Mobile responsive filter conditions to the Filterable CPT.",
+    "Resolved the issue where changing the image size in the Filterable CPT did not affect the view.",
+    "Fixed the issue with the Data Table not working properly when a new line exists in a column's data in the CSV file.",
+    "Resolved the issue with the pagination button style not displaying properly in the CPT Grid.",
+    "Fixed the issue where the popup content scroll was enabled, but it prevented page scrolling, making page scroll not work properly.",
+    "Adjusted the Logo Carousel to match the responsive behavior of the Advanced Carousel.",
+    "Resolved the class name conflict issue with the grid class across all gallery modules.",
+    "Solved the issue with the FAQ accordion's open direction.",
+    "Resolved the missing condition check for the existence of nested sub-menu items.",
+    "Fixed the issue where the mobile menu breaks when translated using the GTranslate plugin.",
+    "Resolved the issue where the Blurb button in the Timeline module wasn't working when the arrow was enabled."
   ]
 }
