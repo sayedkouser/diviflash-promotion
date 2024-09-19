@@ -1,5 +1,21 @@
 [
     {
+    "slug": "cleaning",
+    "version": "1.0.0",
+    "name": "Cleaning",
+    "package_name": "Divi Cleaning layout Packs",
+    "description": "Cleaning website layout for professional cleaning service companies featuring detailed services and testimonial pages.",
+    "thumb": "https://layouts.diviflash.xyz/cleaning/wp-content/uploads/sites/43/2024/09/Divi-Cleaning-layout-Packs.webp",
+    "demo_url": "https://layouts.diviflash.xyz/cleaning/",
+    "package_url": "https://layouts.diviflash.xyz/cleaning/wp-content/uploads/sites/43/2024/09/diviflash_cleaning_layout_pack.zip",
+    "download_url": "https://layouts.diviflash.xyz/cleaning/wp-content/uploads/sites/43/2024/09/Cleaning-Layout-DiviFlash.zip",
+    "doc_link": "https://diviflash.com/docs/cleaning/",
+    "menu_instruction": {
+      "list": "Home, Services, About, Testimonial, Blog, Contact"
+    }
+    },
+    
+    {
     "slug": "digital_agency_multi_page",
     "version": "1.0.0",
     "name": "Digital Agency Multipage",
