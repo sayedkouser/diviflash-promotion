@@ -1,40 +1,35 @@
 {
-  "version": "Version 1.4.6",
-  "date": "Tuesday August 20, 2024",
+  "version": "Version 1.4.7",
+  "date": "Tuesday October 03, 2024",
   "introduced": [
-    "Back To Top Customizer extension.",
-    "Preloader Customizer extension."
+    "Avatar Stack Module."
   ],
   "Added": [
-    "Pagination in the Packery Gallery Module.",
-    "Pagination in the Justified Gallery Module."
+    "Plugin translation support.",
+    "Hide admin bar based on user roles option.",
+    "Rename project custom post type option.",
+    "Hide DF page category option.",
+    "Hide Df media category option.",
+    "Hide Project CPT option.",
+    "Disable option for WPForms pro style if plugin available."
   ],
   "Improved": [
-    "Filterable CPT - Added a smooth height transition effect when filtering items.",
-    "Hover overlay spacing controller to the Image Gallery.",
-    "Hover overlay spacing controller to the Justified Gallery.",
-    "Close icon to the hamburger menu on mobile when the menu is open.",
-    "Functionality to close the open dropdown menu after clicking a scrollable link in the advanced menu mobile view.",
-    "Controller for setting the default number of entries shown in Data Table pagination.",
-    "Advanced DataTable line break option added for database column."
+    "Theme Customizer control panel design.",
+    "Theme Customizer back to top."
   ],
   "Fixed": [
-    "Handled display conditionals for all Custom Post Type (CPT) modules.",
-    "Resolved design issue in the testimonial carousel.",
-    "Condition in ACF Gallery to check if the field is in an array to prevent accidental errors.",
-    "Resolved the issue where the multi-filter in the CPT module wasn't working if only a checkbox was selected.",
-    "Resolved PHP warnings and issues with the ACF Gallery in the theme builder.",
-    "Filterable CPT to dynamically retrieve the parent class.",
-    "Mobile responsive filter conditions to the Filterable CPT.",
-    "Resolved the issue where changing the image size in the Filterable CPT did not affect the view.",
-    "Fixed the issue with the Data Table not working properly when a new line exists in a column's data in the CSV file.",
-    "Resolved the issue with the pagination button style not displaying properly in the CPT Grid.",
-    "Fixed the issue where the popup content scroll was enabled, but it prevented page scrolling, making page scroll not work properly.",
-    "Adjusted the Logo Carousel to match the responsive behavior of the Advanced Carousel.",
-    "Resolved the class name conflict issue with the grid class across all gallery modules.",
-    "Solved the issue with the FAQ accordion's open direction.",
-    "Resolved the missing condition check for the existence of nested sub-menu items.",
-    "Fixed the issue where the mobile menu breaks when translated using the GTranslate plugin.",
-    "Resolved the issue where the Blurb button in the Timeline module wasn't working when the arrow was enabled."
+    "CPTGrid anomaly on archive page with current tag option.",
+    "CPTGrid issue with module preset handled.",
+    "Rewrite flush handled with popup enable disable.",
+    "Error with other theme and builder plugin handled.",
+    "Dashboard design issue with WP latest.",
+    "Filterable CPT - Multiple in single page issue resolved.",
+    "Filterable CPT - Empty space showing on multi filter issue resolved.",
+    "Logo Carousel - inViewport function missing issue resolved.",
+    "Advanced Menu - Hamburger Icon issue resolved.",
+    "Advanced Menu - Missing Active state design in mobile and tablet view resolved.",
+    "Advanced Menu - Mega menu hover trigger issue resolved.",
+    "CPT Grid - Preset issue resolved.",
+    "Text Highlighter - Functionality improved."
   ]
 }
