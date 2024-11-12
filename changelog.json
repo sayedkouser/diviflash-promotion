@@ -1,35 +1,18 @@
 {
-  "version": "Version 1.4.7",
-  "date": "Tuesday October 03, 2024",
+  "version": "Version 1.4.8",
+  "date": "Tuesday November 12, 2024",
   "introduced": [
-    "Avatar Stack Module."
-  ],
-  "Added": [
-    "Plugin translation support.",
-    "Hide admin bar based on user roles option.",
-    "Rename project custom post type option.",
-    "Hide DF page category option.",
-    "Hide Df media category option.",
-    "Hide Project CPT option.",
-    "Disable option for WPForms pro style if plugin available."
-  ],
-  "Improved": [
-    "Theme Customizer control panel design.",
-    "Theme Customizer back to top."
+    "Inline Content Module.",
+    "Advanced Button Module.",
+    "Social Share Module.",
+    "Clear Cache Button extension.",
+    "Hide Footer Bottom Bar extension.",
+    "Stick Footer Nav at Bottom extension."
   ],
   "Fixed": [
-    "CPTGrid anomaly on archive page with current tag option.",
-    "CPTGrid issue with module preset handled.",
-    "Rewrite flush handled with popup enable disable.",
-    "Error with other theme and builder plugin handled.",
-    "Dashboard design issue with WP latest.",
-    "Filterable CPT - Multiple in single page issue resolved.",
-    "Filterable CPT - Empty space showing on multi filter issue resolved.",
-    "Logo Carousel - inViewport function missing issue resolved.",
-    "Advanced Menu - Hamburger Icon issue resolved.",
-    "Advanced Menu - Missing Active state design in mobile and tablet view resolved.",
-    "Advanced Menu - Mega menu hover trigger issue resolved.",
-    "CPT Grid - Preset issue resolved.",
-    "Text Highlighter - Functionality improved."
+    "Multiple Filterable CPT in single page Filtering issue solved.",
+    "Filterable CPT-Filter button visible when not multi filter option on.",
+    "Fallback license issue handled.",
+    "Content Toggle library item for builder issue handled."
   ]
 }
