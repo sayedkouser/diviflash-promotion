@@ -1,18 +1,15 @@
 {
-  "version": "Version 1.4.8",
-  "date": "Tuesday November 12, 2024",
+  "version": "Version 1.4.9",
+  "date": "Wednesday December 04, 2024",
   "introduced": [
-    "Inline Content Module.",
-    "Advanced Button Module.",
-    "Social Share Module.",
-    "Clear Cache Button extension.",
-    "Hide Footer Bottom Bar extension.",
-    "Stick Footer Nav at Bottom extension."
+    "Introduced: Advanced Pricing Table Module.",
+    "Introduced: Table Of Contents Module.",
+    "Introduced: Vertical Menu Module.",
+    "Introduced: Scroll Text Reveal Module."
   ],
   "Fixed": [
-    "Multiple Filterable CPT in single page Filtering issue solved.",
-    "Filterable CPT-Filter button visible when not multi filter option on.",
-    "Fallback license issue handled.",
-    "Content Toggle library item for builder issue handled."
+    "Fixed: Empty Filterable gallery handled.",
+    "Library Item anomaly handled.",
+    "Advanced Button: Section Target issue handled."
   ]
 }
