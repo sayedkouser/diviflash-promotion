@@ -1,15 +1,57 @@
 {
-  "version": "Version 1.4.9",
-  "date": "Wednesday December 04, 2024",
-  "introduced": [
-    "Introduced: Advanced Pricing Table Module.",
-    "Introduced: Table Of Contents Module.",
-    "Introduced: Vertical Menu Module.",
-    "Introduced: Scroll Text Reveal Module."
+  "version": "Version 1.4.10",
+  "date": "Tuesday February 25, 2025",
+  "Introduced": [
+    "SVG Animator module.",
+    "Login Form extension added.",
+    "Maintenance mode extension added.",
+    "CPT modules Pods support added."
+  ],
+  "Improved": [
+    "BTT, Preloader preview scripts added.",
+    "Table Of Contents Module enhanced.",
+    "Popup close button responsive controls added.",
+    "Separator added for Business Hours module.",
+    "Order-By option added on TB with Post For Current Page on CPT Grid.",
+    "Vertical Menu Hamburger options added.",
+    "WPML Support added on Table module.",
+    "Post and Product module related post feature added.",
+    "Social Share: Tooltip Added."
   ],
   "Fixed": [
-    "Fixed: Empty Filterable gallery handled.",
-    "Library Item anomaly handled.",
-    "Advanced Button: Section Target issue handled."
+    "Layout importer data import issue resolved.",
+    "Post list module infinite loop resolved.",
+    "Heading module style copy not working handled.",
+    "Gravity forms radio button size issue handled.",
+    "License notice on dashboard handled.",
+    "Advanced Gallery: Image not loaded on Safari.",
+    "Advanced Button: Solved hash link doesn't work in the Advanced Button Link.",
+    "Popup button style not applied in frontend solved.",
+    "WP Rocket active popup not showing issue solved.",
+    "Content Carousel Button link not working when lightbox on issue solved.",
+    "Custom Background Field global color not applying on builder issue, and important tag issue solved.",
+    "ACF and MetaBox: Change empty label to Select a Field.",
+    "Marquee Text: Script enqueue dependency issue handled.",
+    "CPT Carousel: Turn on or off loop settings change the post ordering in the builder.",
+    "CPT Grid Taxonomy select toggle issue handled.",
+    "Advanced Tab: Responsive content issue in mobile view.",
+    "Advanced Menu: Mobile menu close issue when section is sticky and page scroll down.",
+    "Dashboard module demo and documentation link mismatch issue solved.",
+    "Display all condition resolved for popup.",
+    "Quick edit active status issue resolved for popup.",
+    "Advanced Menu child item display condition handled.",
+    "Advanced menu WC ajax cart update issue resolved.",
+    "CPT Carousel VB with FE anomaly resolved.",
+    "Multiple menu click event issue on mobile resolved.",
+    "Advanced Gallery lightbox showing all tabs item issue handled.",
+    "Timeline Module issue with Advanced Tab library item resolved.",
+    "Timeline line gap color issue handled.",
+    "Scrolling Text Reveal module reveal on scroll resolved.",
+    "Popup: Loading inside builder issue resolved.",
+    "TextHighlighter: Heading tag issue on frontend resolved.",
+    "Advanced Menu: Showing error on builder wireframe mode resolved.",
+    "Inside popup builder library item import issue resolved.",
+    "Logo Carousel: Image link issue on mobile resolved.",
+    "Advanced Pricing Table tooltip with hover issue resolved."
   ]
 }
