@@ -1,5 +1,20 @@
 [
     {
+    "slug": "personal-blog",
+    "version": "1.0.0",
+    "name": "Personal Blog Layout Packs",
+    "package_name": "Personal Blog Layout Packs",
+    "description": "Modern and vibrant layout pack designed for personal bloggers to share stories, thoughts, and updates with beautifully styled blog pages, category sections, galleries, and more.",
+    "thumb": "https://layouts.diviflash.xyz/personal-blog/wp-content/uploads/sites/48/2025/04/personal-blog-layout.webp",
+    "demo_url": "https://layouts.diviflash.xyz/personal-blog/",
+    "package_url": "https://layouts.diviflash.xyz/personal-blog/wp-content/uploads/sites/48/2025/04/diviflash_personal-blog_layout_pack.zip",
+    "download_url": "https://layouts.diviflash.xyz/personal-blog/wp-content/uploads/sites/48/2025/04/Personal-Blog-Layout-Packs-Diviflash.zip",
+    "doc_link": "https://diviflash.com/docs/personal-blog/",
+    "menu_instruction": {
+      "list": "Home, Blogs(Filterable Blog, Blog Grid, Single Post Page), Categories(Lifestyle, Travel, Hobbies, Workout), Gallery, Pages(FAQ, 404 Error, Contact)"
+    }
+  },
+    {
     "slug": "gym",
     "version": "1.0.0",
     "name": "Fitness",
@@ -502,7 +517,7 @@
     "version": "1.0.0",
     "name": "Coffee",
     "package_name": "Coffee Shop Layout Packs",
-    "description": "Templates designed with food in mind that showcase your restaurantu2019s items.",
+    "description": "Templates designed with food in mind that showcase your restaurants item.",
     "thumb": "https://diviflash.com/wp-content/uploads/2023/02/Coffee-Shop-Layout-Packs.png.webp",
     "demo_url": "https://layouts.diviflash.xyz/coffee/",
     "package_url": "https://layouts.diviflash.xyz/coffee/wp-content/uploads/sites/12/2023/12/diviflash_coffee_layout_pack.zip",
@@ -515,7 +530,7 @@
   {
     "slug": "appecho",
     "version": "1.0.0",
-    "name": "Appecho",
+    "name": "Mobile App",
     "package_name": "Mobile App Layout Packs",
     "description": "Website designs tailored for mobile app developers, featuring app features, and download links.",
     "thumb": "https://diviflash.com/wp-content/uploads/2023/02/Mobile-App-Layout-Packs.png.webp",
@@ -533,13 +548,13 @@
   {
     "slug": "medipulse",
     "version": "1.0.0",
-    "name": "MediPulse",
+    "name": "Medical",
     "package_name": "Medical Layout Packs",
     "description": "Layouts that are designed for hospitals, clinics, doctors, and other medical professionals.",
     "thumb": "https://diviflash.com/wp-content/uploads/2023/02/Medical-Layout-Packs.png.webp",
     "demo_url": "https://layouts.diviflash.xyz/medipulse/",
-    "package_url": "https://layouts.diviflash.xyz/medipulse/wp-content/uploads/sites/10/2023/12/diviflash_medipulse_layout_pack.zip",
-    "download_url": "https://layouts.diviflash.xyz/medipulse/wp-content/uploads/sites/10/2023/01/MediPulse-Layout-DiviFlash.zip",
+    "package_url": "https://layouts.diviflash.xyz/medipulse/wp-content/uploads/sites/10/2025/04/diviflash_medipulse_layout_pack.zip",
+    "download_url": "https://layouts.diviflash.xyz/medipulse/wp-content/uploads/sites/10/2025/04/Medical-Layout-DiviFlash.zip",
     "doc_link": "https://diviflash.com/docs/medical/",
     "menu_instruction": {
       "list": "Home, About Us, Services, Departments, Blog, Contact Us"
