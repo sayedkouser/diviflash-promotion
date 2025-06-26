@@ -1,14 +1,20 @@
 {
-  "version": "Version 1.4.12",
-  "date": "Thursday April 24, 2025",
+  "version": "Version 1.4.13",
+  "date": "Wednesday June 25, 2025",
+  "Added": [
+    "PostList WPML Support.",
+    "WooCommerce Support added for Layout Importer."
+  ],
   "Fixed": [
-    "SVG Animator file loading issue resolved.",
-    "TableOfContents script loading issue handled.",
-    "Plugin not activating issue handled with latest version.",
-    "Customizer not working with extra theme resolved.",
-    "CPT Grid Scroll issue when using masonry layout.",
-    "Pricing Table Tooltip issue resolved.",
-    "Advanced Menu logo stretching on IOS.",
-    "Latest WP version translation issue resolved."
+    "Advanced Gallery image filter issue handled.",
+    "Preloader native loading issue resolved.",
+    "Advanced Gallery image load issue on Safari handled.",
+    "CPTFilter Condition issue resolved.",
+    "Polylang plugin with taxonomy name issue resolved.",
+    "Polylang plugin with taxonomy name issue resolved.",
+    "Advanced Gallery Active State filter button background color not working.",
+    "Advanced Menu logo stretching issue on Safari browser.",
+    "Testimonial Rating font-size not working on Divi Template.",
+    "PricingTable conflict with Yoast Plugin redirect handled"
   ]
 }
