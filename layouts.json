@@ -1,10 +1,44 @@
 [
     {
+    "slug": "magazine",
+    "version": "1.0.0",
+    "name": "Magazine",
+    "package_name": "Magazine Layout Packs",
+    "description": "Designed for magazines, editorials, and creators to showcase featured articles, interviews, and stories in a stylish layout.",
+    "thumb": "https://layouts.diviflash.xyz/magazine/wp-content/uploads/sites/50/2025/05/Magazine-Layout-Pack.webp",
+    "demo_url": "https://layouts.diviflash.xyz/magazine/",
+    "package_url": "https://layouts.diviflash.xyz/magazine/wp-content/uploads/sites/50/2025/05/diviflash_magazine_layout_pack.zip",
+    "download_url": "https://layouts.diviflash.xyz/magazine/wp-content/uploads/sites/50/2025/06/Magazine-Layout-Packs-Diviflash.zip",
+    "doc_link": "https://diviflash.com/docs/magazine/",
+    "plugins": [
+      "acf",
+      "woocommerce"
+    ],
+    "menu_instruction": {
+      "list": "Fashion, Tech, Gym, Business, Food, Pages (Magazine, About Us, Authors, Contact Us, Error 404)"
+    }
+  },
+    {
+    "slug": "news",
+    "version": "1.0.0",
+    "name": "News",
+    "package_name": "News Layout Packs",
+    "description": "A clean design for news websites to showcase top stories, trending topics, and featured headlines with an organized layout.",
+    "thumb": "https://layouts.diviflash.xyz/news/wp-content/uploads/sites/49/2025/05/News-Layout.webp",
+    "demo_url": "https://layouts.diviflash.xyz/news/",
+    "package_url": "https://layouts.diviflash.xyz/news/wp-content/uploads/sites/49/2025/05/diviflash_news_layout_pack.zip",
+    "download_url": "https://layouts.diviflash.xyz/news/wp-content/uploads/sites/49/2025/05/News-Layout-Packs-Diviflash.zip",
+    "doc_link": "https://diviflash.com/docs/news/",
+    "menu_instruction": {
+      "list": "World, Politics, Business, Tech, Health, Sports, Pages (About Us, Authors, Podcast, Contact us)"
+    }
+  },
+    {
     "slug": "personal-blog",
     "version": "1.0.0",
     "name": "Personal Blog",
     "package_name": "Personal Blog Layout Packs",
-    "description": "Modern and vibrant layout pack designed for personal bloggers to share stories, thoughts, and updates with beautifully styled blog pages, category sections, galleries, and more.",
+    "description": "A modern layout for bloggers to share stories, ideas, and updates with stylish blog pages, galleries, and more.",
     "thumb": "https://layouts.diviflash.xyz/personal-blog/wp-content/uploads/sites/48/2025/04/personal-blog-layout.webp",
     "demo_url": "https://layouts.diviflash.xyz/personal-blog/",
     "package_url": "https://layouts.diviflash.xyz/personal-blog/wp-content/uploads/sites/48/2025/04/diviflash_personal-blog_layout_pack.zip",
