@@ -1,5 +1,25 @@
 [
     {
+    "slug": "travel",
+    "version": "1.0.0",
+    "name": "Travel",
+    "package_name": "Travel Layout Packs",
+    "description": "Beautifully designed website templates for travel agencies, tour operators, and travel bloggers featuring destination pages.",
+    "thumb": "https://layouts.diviflash.xyz/travel/wp-content/uploads/sites/47/2025/03/travel-layout-packs.webp",
+    "demo_url": "https://layouts.diviflash.xyz/travel/",
+    "package_url": "https://layouts.diviflash.xyz/travel/wp-content/uploads/sites/47/2025/06/diviflash_travel_layout_pack.zip",
+    "download_url": "https://layouts.diviflash.xyz/travel/wp-content/uploads/sites/47/2025/06/Travel-Layout-Packs-DiviFlash.zip",
+    "plugins": [
+      "cpt_ui",
+      "acf"
+    ],
+    "doc_link": "https://diviflash.com/docs/travel/",
+    "menu_instruction": {
+      "list": "Home, About, Service, Destination(Submenu: Destination, Destinations Details), Packages, Blogs(Submenu: Blog Grid, Single Post), Pages(Submenu: Testimonial, Error 404, Contact Us)"
+    }
+  },
+    
+    {
     "slug": "magazine",
     "version": "1.0.0",
     "name": "Magazine",
