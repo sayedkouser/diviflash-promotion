@@ -1,5 +1,25 @@
 [
     {
+    "slug": "car-rental",
+    "version": "1.0.0",
+    "name": "Car Rental",
+    "package_name": "Car Rental Layout Packs",
+    "description": "Built for car rental services with vehicle listings, services, testimonials, and blog sections to turn visitors into renters.",
+    "thumb": "https://layouts.diviflash.xyz/car-rental/wp-content/uploads/sites/51/2025/07/Car-Rental-Layout-Packs.webp",
+    "demo_url": "https://layouts.diviflash.xyz/car-rental/",
+    "package_url": "https://layouts.diviflash.xyz/car-rental/wp-content/uploads/sites/51/2025/07/diviflash_car-rental_layout_pack.zip",
+    "download_url": "https://layouts.diviflash.xyz/car-rental/wp-content/uploads/sites/51/2025/07/Car-Rental-Layout-Packs-DiviFlash.zip",
+    "plugins": [
+      "contact_form7",
+      "acf"
+    ],
+    "doc_link": "https://diviflash.com/docs/car-rental/",
+    "menu_instruction": {
+      "list": "Home, Car Listing, Services, About, Blog, Contact"
+    }
+  },
+    
+    {
     "slug": "travel",
     "version": "1.0.0",
     "name": "Travel",
