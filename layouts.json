@@ -69,6 +69,9 @@
     "package_url": "https://layouts.diviflash.xyz/news/wp-content/uploads/sites/49/2025/05/diviflash_news_layout_pack.zip",
     "download_url": "https://layouts.diviflash.xyz/news/wp-content/uploads/sites/49/2025/05/News-Layout-Packs-Diviflash.zip",
     "doc_link": "https://diviflash.com/docs/news/",
+        "plugins": [
+      "acf"
+    ],
     "menu_instruction": {
       "list": "World, Politics, Business, Tech, Health, Sports, Pages (About Us, Authors, Podcast, Contact us)"
     }
