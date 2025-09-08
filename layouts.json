@@ -1,5 +1,47 @@
 [
     {
+    "slug": "hotel",
+    "version": "1.0.0",
+    "name": "Hotel",
+    "package_name": "Hotel Layout Packs",
+    "description": "Designed for hospitality businesses looking to attract guests with modern showcases of hotel rooms, suites, and amenities.",
+    "thumb": "https://layouts.diviflash.xyz/hotel/wp-content/uploads/sites/53/2025/09/Hotel-Layout-Packs.webp",
+    "demo_url": "https://layouts.diviflash.xyz/hotel/",
+    "package_url": "https://layouts.diviflash.xyz/hotel/wp-content/uploads/sites/53/2025/09/diviflash_hotel_layout_pack.zip",
+    "download_url": "https://layouts.diviflash.xyz/hotel/wp-content/uploads/sites/53/2025/09/Hotel-Layout-Packs-DiviFlash.zip",
+    "plugins": [
+      "contact_form7",
+      "acf",
+      "cpt_ui"
+    ],
+    "doc_link": "https://diviflash.com/docs/hotel/",
+    "menu_instruction": {
+      "list": "Home, Rooms, Packages, About, Blog Contact"
+    }
+  },
+    
+    {
+    "slug": "interior",
+    "version": "1.0.0", 
+    "name": "Interior Design",
+    "package_name": "Interior Design Layout Packs",
+    "description": "Perfect for design studios and agencies looking to impress clients with elegant showcases of services, portfolios, and testimonials.",
+    "thumb": "https://layouts.diviflash.xyz/interior/wp-content/uploads/sites/52/2025/09/Interior-Layout-Packs.webp",
+    "demo_url": "https://layouts.diviflash.xyz/interior/",
+    "package_url": "https://layouts.diviflash.xyz/interior/wp-content/uploads/sites/52/2025/09/diviflash_interior_layout_pack.zip",
+    "download_url": "https://layouts.diviflash.xyz/interior/wp-content/uploads/sites/52/2025/09/Interior-Layout-Packs-DiviFlash.zip",
+    "plugins": [
+      "contact_form7",
+      "acf",
+      "cpt_ui"
+    ],
+    "doc_link": "https://diviflash.com/docs/interior/",
+    "menu_instruction": {
+      "list": "Home, Services, Projects, About, Blog Contact"
+    }
+  },
+    
+    {
     "slug": "car-rental",
     "version": "1.0.0",
     "name": "Car Rental",
