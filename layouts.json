@@ -1,5 +1,41 @@
 [
     {
+    "slug": "events",
+    "version": "1.0.0",
+    "name": "Events",
+    "package_name": "Events Layout Pack",
+    "description": "Website layouts for event organizers, conferences, and festivals, featuring schedules, speakers, testimonials, and registration sections.",
+    "thumb": "https://layouts.diviflash.xyz/events/wp-content/uploads/sites/57/2025/10/events-layout-pack.webp",
+    "demo_url": "https://layouts.diviflash.xyz/events/",
+    "package_url": "https://layouts.diviflash.xyz/events/wp-content/uploads/sites/57/2025/10/diviflash_events_layout_pack.zip",
+    "download_url": "https://layouts.diviflash.xyz/events/wp-content/uploads/sites/57/2025/10/Events-Layout-Packs-Diviflash.zip",
+    "plugins": [
+     
+    ],
+    "doc_link": "https://diviflash.com/docs/events/",
+    "menu_instruction": {
+      "list": "Home, Speakers, Events About, Blog, Contact"
+    }
+  },
+    {
+    "slug": "wind-solar-energy",
+    "version": "1.0.0",
+    "name": "Wind & Solar Energy",
+    "package_name": "Wind & Solar Energy Layout Pack",
+    "description": "Website layouts for renewable energy companies and clean-tech providers, featuring services, projects, and sustainability-focused solutions.",
+    "thumb": "https://layouts.diviflash.xyz/wind-solar-energy/wp-content/uploads/sites/55/2025/10/wind-solar-energy-layout-pack.png",
+    "demo_url": "https://layouts.diviflash.xyz/wind-solar-energy/",
+    "package_url": "https://layouts.diviflash.xyz/wind-solar-energy/wp-content/uploads/sites/55/2025/10/diviflash_wind-solar-energy_layout_pack.zip",
+    "download_url": "https://layouts.diviflash.xyz/wind-solar-energy/wp-content/uploads/sites/55/2025/10/Wind-Solar-Energy-Layout-Packs-Diviflash.zip",
+    "plugins": [
+      "acf"
+    ],
+    "doc_link": "https://diviflash.com/docs/wind-solar-energy/",
+    "menu_instruction": {
+      "list": "Home, About, Services, Packages, Blog, Contact"
+    }
+  },
+    {
     "slug": "hotel",
     "version": "1.0.0",
     "name": "Hotel",
