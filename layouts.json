@@ -1,5 +1,24 @@
 [
-    {
+  {
+    "slug": "elearning",
+    "version": "1.0.0",
+    "name": "eLearning",
+    "package_name": "eLearning Layout Pack",
+    "description": "Website layouts for online learning platforms and educational institutions, featuring courses, mentors, testimonials, and FAQs.",
+    "thumb": "https://layouts.diviflash.xyz/elearning/wp-content/uploads/sites/56/2025/10/elearning-layout-pack.png",
+    "demo_url": "https://layouts.diviflash.xyz/elearning/",
+    "package_url": "https://layouts.diviflash.xyz/elearning/wp-content/uploads/sites/56/2025/10/diviflash_elearning_layout_pack.zip",
+    "download_url": "https://layouts.diviflash.xyz/elearning/wp-content/uploads/sites/56/2025/10/eLearning-Layout-Packs-Diviflash.zip",
+    "plugins": [
+      "acf",
+      "woocommerce"
+    ],
+    "doc_link": "https://diviflash.com/docs/elearning/",
+    "menu_instruction": {
+      "list": "Home, Courses, Mentors, About, Blog, Contact"
+    }
+  },
+  {
     "slug": "events",
     "version": "1.0.0",
     "name": "Events",
@@ -9,15 +28,13 @@
     "demo_url": "https://layouts.diviflash.xyz/events/",
     "package_url": "https://layouts.diviflash.xyz/events/wp-content/uploads/sites/57/2025/10/diviflash_events_layout_pack.zip",
     "download_url": "https://layouts.diviflash.xyz/events/wp-content/uploads/sites/57/2025/10/Events-Layout-Packs-Diviflash.zip",
-    "plugins": [
-     
-    ],
+    "plugins": [],
     "doc_link": "https://diviflash.com/docs/events/",
     "menu_instruction": {
       "list": "Home, Speakers, Events About, Blog, Contact"
     }
   },
-    {
+  {
     "slug": "wind-solar-energy",
     "version": "1.0.0",
     "name": "Wind & Solar Energy",
@@ -35,7 +52,7 @@
       "list": "Home, About, Services, Packages, Blog, Contact"
     }
   },
-    {
+  {
     "slug": "hotel",
     "version": "1.0.0",
     "name": "Hotel",
@@ -55,10 +72,9 @@
       "list": "Home, Rooms, Packages, About, Blog Contact"
     }
   },
-    
-    {
+  {
     "slug": "interior",
-    "version": "1.0.0", 
+    "version": "1.0.0",
     "name": "Interior Design",
     "package_name": "Interior Design Layout Packs",
     "description": "Perfect for design studios and agencies looking to impress clients with elegant showcases of services, portfolios, and testimonials.",
@@ -76,8 +92,7 @@
       "list": "Home, Services, Projects, About, Blog Contact"
     }
   },
-    
-    {
+  {
     "slug": "car-rental",
     "version": "1.0.0",
     "name": "Car Rental",
@@ -96,8 +111,7 @@
       "list": "Home, Car Listing, Services, About, Blog, Contact"
     }
   },
-    
-    {
+  {
     "slug": "travel",
     "version": "1.0.0",
     "name": "Travel",
@@ -116,8 +130,7 @@
       "list": "Home, About, Service, Destination(Submenu: Destination, Destinations Details), Packages, Blogs(Submenu: Blog Grid, Single Post), Pages(Submenu: Testimonial, Error 404, Contact Us)"
     }
   },
-    
-    {
+  {
     "slug": "magazine",
     "version": "1.0.0",
     "name": "Magazine",
@@ -136,7 +149,7 @@
       "list": "Fashion, Tech, Gym, Business, Food, Pages (Magazine, About Us, Authors, Contact Us, Error 404)"
     }
   },
-    {
+  {
     "slug": "news",
     "version": "1.0.0",
     "name": "News",
@@ -147,14 +160,14 @@
     "package_url": "https://layouts.diviflash.xyz/news/wp-content/uploads/sites/49/2025/05/diviflash_news_layout_pack.zip",
     "download_url": "https://layouts.diviflash.xyz/news/wp-content/uploads/sites/49/2025/05/News-Layout-Packs-Diviflash.zip",
     "doc_link": "https://diviflash.com/docs/news/",
-        "plugins": [
+    "plugins": [
       "acf"
     ],
     "menu_instruction": {
       "list": "World, Politics, Business, Tech, Health, Sports, Pages (About Us, Authors, Podcast, Contact us)"
     }
   },
-    {
+  {
     "slug": "personal-blog",
     "version": "1.0.0",
     "name": "Personal Blog",
@@ -169,7 +182,7 @@
       "list": "Home, Blogs(Filterable Blog, Blog Grid, Single Post Page), Categories(Lifestyle, Travel, Hobbies, Workout), Gallery, Pages(FAQ, 404 Error, Contact)"
     }
   },
-    {
+  {
     "slug": "gym",
     "version": "1.0.0",
     "name": "Fitness",
@@ -184,8 +197,7 @@
       "list": "Home, About Us, Pages (Submenu: Our Fitness Class, Class Details, Team, Team Detail, Testimonial, 404 Page), Blog, Pricing, Contact Us"
     }
   },
-    
-    {
+  {
     "slug": "car-repair",
     "version": "1.0.0",
     "name": "Car Repair",
@@ -200,7 +212,7 @@
       "list": "Services (Mega Menu:Single Service),Car Care Tips, About, Reviews, Blog, Contact"
     }
   },
-    {
+  {
     "slug": "cleaning",
     "version": "1.0.0",
     "name": "Cleaning",
@@ -214,9 +226,8 @@
     "menu_instruction": {
       "list": "Home, Services, About, Testimonial, Blog, Contact"
     }
-    },
-    
-    {
+  },
+  {
     "slug": "digital_agency_multi_page",
     "version": "1.0.0",
     "name": "Digital Agency Multipage",
@@ -230,7 +241,7 @@
     "menu_instruction": {
       "list": "Home, Services, About Us, Works, Blog, Contact"
     }
-    },
+  },
   {
     "slug": "yoga",
     "version": "1.0.0",
@@ -664,7 +675,7 @@
     "download_url": "https://layouts.diviflash.xyz/construction/wp-content/uploads/sites/17/2024/02/Construction-Layout-Pack-DiviFlash.zip",
     "doc_link": "https://diviflash.com/docs/construction/",
     "menu_instruction": {
-      "list": "Home, About Us, Our Services(child menu: mega menu library), Blog, Contact"      
+      "list": "Home, About Us, Our Services(child menu: mega menu library), Blog, Contact"
     }
   },
   {
