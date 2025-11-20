@@ -1,4 +1,58 @@
 [
+    {
+    "slug": "church",
+    "version": "1.0.0",
+    "name": "Church",
+    "package_name": "Church Layout Pack",
+    "description": "Website layouts for churches, ministries, and faith-based organizations featuring sermons, events, donation options, and community highlights.",
+    "thumb": "https://layouts.diviflash.xyz/church/wp-content/uploads/sites/60/2025/11/church-layout-pack.webp",
+    "demo_url": "https://layouts.diviflash.xyz/church/",
+    "package_url": "https://layouts.diviflash.xyz/church/wp-content/uploads/sites/60/2025/11/diviflash_church_layout_pack.zip",
+    "download_url": "https://layouts.diviflash.xyz/church/wp-content/uploads/sites/60/2025/11/Church-Layout-Packs-Diviflash.zip",
+    "plugins": [
+     "acf"
+    ],
+    "doc_link": "https://diviflash.com/docs/church/",
+    "menu_instruction": {
+      "list": "Home, About us, Ministry, Events, Sermons"
+    }
+  },
+    {
+    "slug": "hvac",
+    "version": "1.0.0",
+    "name": "HVAC",
+    "package_name": "HVAC Layout Pack",
+    "description": "Website layouts for HVAC and air conditioning service providers featuring services, pricing, testimonials, and contact sections to attract local clients.",
+    "thumb": "https://layouts.diviflash.xyz/hvac/wp-content/uploads/sites/58/2025/11/hvac-layout-pack.webp",
+    "demo_url": "https://layouts.diviflash.xyz/hvac/",
+    "package_url": "https://layouts.diviflash.xyz/hvac/wp-content/uploads/sites/58/2025/11/diviflash_hvac_layout_pack.zip",
+    "download_url": "https://layouts.diviflash.xyz/hvac/wp-content/uploads/sites/58/2025/11/HVAC-Layout-Packs-Diviflash.zip",
+    "plugins": [
+     
+    ],
+    "doc_link": "https://diviflash.com/docs/hvac/",
+    "menu_instruction": {
+      "list": "Home, Services, About us, Blog, Contact"
+    }
+  },
+    {
+    "slug": "insurance",
+    "version": "1.0.0",
+    "name": "Insurance",
+    "package_name": "Insurance Layout Pack",
+    "description": "Website layouts for insurance and financial service providers featuring service details, pricing plans, testimonials, and contact sections.",
+    "thumb": "https://layouts.diviflash.xyz/insurance/wp-content/uploads/sites/59/2025/11/insurance-layout-pack.webp",
+    "demo_url": "https://layouts.diviflash.xyz/insurance/",
+    "package_url": "https://layouts.diviflash.xyz/insurance/wp-content/uploads/sites/59/2025/11/diviflash_insurance_layout_pack.zip",
+    "download_url": "https://layouts.diviflash.xyz/insurance/wp-content/uploads/sites/59/2025/11/Insurance-Layout-Packs-Diviflash.zip",
+    "plugins": [
+     
+    ],
+    "doc_link": "https://diviflash.com/docs/insurance/",
+    "menu_instruction": {
+      "list": "Home, Insurance Plans (Life Secure Plan, Business Shields Plan, House Insurance Plan, Car Insurance Plan, Retirement Insurance Plan), About Us, Blog, Contact"
+    }
+  },
   {
     "slug": "elearning",
     "version": "1.0.0",
