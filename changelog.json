@@ -1,7 +1,18 @@
 {
-  "version": "Version 5.0.0",
-  "date": "Monday April 13, 2026",
+  "version": "Version 5.1.0",
+  "date": "Thursday April 30, 2026",
+  "Introduced": [
+    "Introduced: Spline Module.",
+    "Introduced: Facebook Feed Module.",
+    "Introduced: Advanced Video Module.",
+    "Introduced: X Feed (Twitter) Module.",
+    "Introduced: Interactive Circle Module."
+  ],
   "Added": [
-    "Compatible with Divi 5 Theme Builder."
+    "Content Toggle – Reverse Active State feature."
+  ],
+  "Fixed": [
+    "Fixed: Advanced Menu Theme Builder Body Template style rendering.",
+    "Fixed: Compatibility issues with third party plugins."
   ]
 }
