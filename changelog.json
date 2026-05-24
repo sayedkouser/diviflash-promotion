@@ -1,18 +1,25 @@
 {
-  "version": "Version 5.1.0",
-  "date": "Thursday April 30, 2026",
+  "version": "Version 5.2.0",
+  "date": "Saturday May 23, 2026",
   "Introduced": [
-    "Introduced: Spline Module.",
-    "Introduced: Facebook Feed Module.",
-    "Introduced: Advanced Video Module.",
-    "Introduced: X Feed (Twitter) Module.",
-    "Introduced: Interactive Circle Module."
+    "Introduced: Bar Chart Module.",
+    "Introduced: Line Chart Module.",
+    "Introduced: Pie Chart Module.",
+    "Introduced: Animated Counter Module.",
+    "Introduced: Advanced Countdown Module."
   ],
   "Added": [
-    "Content Toggle – Reverse Active State feature."
+    "Advanced Video Module — Sticky Video playback support.",
+    "Advanced Video Module — Add Element option.",
+    "Maintenance Mode — Admin Bar notice indicator."
   ],
   "Fixed": [
-    "Fixed: Advanced Menu Theme Builder Body Template style rendering.",
-    "Fixed: Compatibility issues with third party plugins."
+    "Fixed: All Modules — Image rendering issue.",
+    "Fixed: Advanced Menu — Library element style conflict.",
+    "Fixed: Advanced Gallery — Fatal error caused by DiviFlash_Media_Category.",
+    "Fixed: Advanced Blurb — Border radius rendering issue.",
+    "Fixed: Filterable CPT — Load More button icon not rendering correctly.",
+    "Fixed: Advanced Tab — Fatal error caused by Tabs border width.",
+    "Fixed: ACF Gallery — Load More button issue."
   ]
 }
