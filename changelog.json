@@ -1,25 +1,27 @@
 {
-  "version": "Version 5.2.0",
-  "date": "Saturday May 23, 2026",
+  "version": "Version 5.3.0",
+  "date": "Saturday July 4, 2026",
   "Introduced": [
-    "Introduced: Bar Chart Module.",
-    "Introduced: Line Chart Module.",
-    "Introduced: Pie Chart Module.",
-    "Introduced: Animated Counter Module.",
-    "Introduced: Advanced Countdown Module."
+    "Introduced: Timeline Tabs Module.",
+    "Introduced: Animated Navigation Module.",
+    "Introduced: Advanced Bar Counter Module.",
+    "Introduced: Background Switcher Module."
   ],
   "Added": [
-    "Advanced Video Module — Sticky Video playback support.",
-    "Advanced Video Module — Add Element option.",
-    "Maintenance Mode — Admin Bar notice indicator."
+    "WPForms Styler Module — WPForms Pro support."
   ],
   "Fixed": [
-    "Fixed: All Modules — Image rendering issue.",
-    "Fixed: Advanced Menu — Library element style conflict.",
-    "Fixed: Advanced Gallery — Fatal error caused by DiviFlash_Media_Category.",
-    "Fixed: Advanced Blurb — Border radius rendering issue.",
-    "Fixed: Filterable CPT — Load More button icon not rendering correctly.",
-    "Fixed: Advanced Tab — Fatal error caused by Tabs border width.",
-    "Fixed: ACF Gallery — Load More button issue."
+    "Fixed: Bar Chart — Bugs when importing demo.",
+    "Fixed: Line Chart — Bugs when importing demo.",
+    "Fixed: Dashboard — Video & Community URL.",
+    "Fixed: Advanced Menu — Sticky logo related bug.",
+    "Fixed: Builder — Loading issue.",
+    "Fixed: Compatibility — Bugs with latest Divi 5.8.0 theme.",
+    "Fixed: Text Highlighter — Gradient color bug.",
+    "Fixed: Library Item — Loading bug.",
+    "Fixed: Advanced List — Fatal error.",
+    "Fixed: Advanced Tab — Fatal error.",
+    "Fixed: Testimonial Carousel — Image related issue.",
+    "Fixed: ACF Gallery — Custom post type data rendering issue."
   ]
 }
