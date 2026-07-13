@@ -1,6 +1,6 @@
 {
-  "version": "Version 5.3.0",
-  "date": "Saturday July 4, 2026",
+  "version": "Version 5.3.1",
+  "date": "Monday July 13, 2026",
   "Introduced": [
     "Introduced: Timeline Tabs Module.",
     "Introduced: Animated Navigation Module.",
@@ -22,6 +22,7 @@
     "Fixed: Advanced List — Fatal error.",
     "Fixed: Advanced Tab — Fatal error.",
     "Fixed: Testimonial Carousel — Image related issue.",
-    "Fixed: ACF Gallery — Custom post type data rendering issue."
+    "Fixed: ACF Gallery — Custom post type data rendering issue.",
+    "Fixed: CPT Modules — Content rendering related issue."
   ]
 }
