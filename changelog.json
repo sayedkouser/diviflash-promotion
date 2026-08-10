@@ -1,28 +1,14 @@
 {
-  "version": "Version 5.3.1",
-  "date": "Monday July 13, 2026",
-  "Introduced": [
-    "Introduced: Timeline Tabs Module.",
-    "Introduced: Animated Navigation Module.",
-    "Introduced: Advanced Bar Counter Module.",
-    "Introduced: Background Switcher Module."
-  ],
-  "Added": [
-    "WPForms Styler Module — WPForms Pro support."
-  ],
+  "version": "Version 5.3.2",
+  "date": "Monday August 9, 2026",
   "Fixed": [
-    "Fixed: Bar Chart — Bugs when importing demo.",
-    "Fixed: Line Chart — Bugs when importing demo.",
-    "Fixed: Dashboard — Video & Community URL.",
-    "Fixed: Advanced Menu — Sticky logo related bug.",
-    "Fixed: Builder — Loading issue.",
-    "Fixed: Compatibility — Bugs with latest Divi 5.8.0 theme.",
-    "Fixed: Text Highlighter — Gradient color bug.",
-    "Fixed: Library Item — Loading bug.",
-    "Fixed: Advanced List — Fatal error.",
-    "Fixed: Advanced Tab — Fatal error.",
-    "Fixed: Testimonial Carousel — Image related issue.",
-    "Fixed: ACF Gallery — Custom post type data rendering issue.",
-    "Fixed: CPT Modules — Content rendering related issue."
+    "Fixed: Advanced Menu — Bug related to last submenu reveal direction.",
+    "Fixed: Advanced Menu — Menu icon rendering issue.",
+    "Fixed: DiviFlash — Performance issues.",
+    "Fixed: Hide WordPress Version — Changed font-family while active.",
+    "Fixed: Global Colors — Invalid CSS when a gradient stop used a global color with an opacity adjustment.",
+    "Fixed: Popup — Enabling a popup changed the page layout width.",
+    "Fixed: Popup — Content scroll not working on iOS.",
+    "Fixed: Advanced Carousel — Theme Builder frontend style issue."
   ]
 }
