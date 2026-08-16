@@ -1,14 +1,7 @@
 {
-  "version": "Version 5.3.2",
-  "date": "Monday August 9, 2026",
+  "version": "Version 5.4.0",
+  "date": "Sunday August 16, 2026",
   "Fixed": [
-    "Fixed: Advanced Menu — Bug related to last submenu reveal direction.",
-    "Fixed: Advanced Menu — Menu icon rendering issue.",
-    "Fixed: DiviFlash — Performance issues.",
-    "Fixed: Hide WordPress Version — Changed font-family while active.",
-    "Fixed: Global Colors — Invalid CSS when a gradient stop used a global color with an opacity adjustment.",
-    "Fixed: Popup — Enabling a popup changed the page layout width.",
-    "Fixed: Popup — Content scroll not working on iOS.",
-    "Fixed: Advanced Carousel — Theme Builder frontend style issue."
+    "Fixed: Builder — Loading issue from root."
   ]
 }
