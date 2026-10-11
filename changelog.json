@@ -1,26 +1,7 @@
 {
-  "version": "Version 5.5.0",
-  "date": "Wednesday September 16, 2026",
-  "Introduced": [
-    "Introduced: Smart CPT Module.",
-    "Introduced: Advanced Search Module.",
-    "Introduced: Remote Controller Module.",
-    "Introduced: Google Reviews Module.",
-    "Introduced: Alert Module.",
-    "Introduced: Reading Progress Bar Extension.",
-    "Introduced: Change Page Title on Leave Extension."
-  ],
+  "version": "Version 5.6.1",
+  "date": "Sunday October 11, 2026",
   "Fixed": [
-    "Fixed: Popup — Divi Contact Form not working.",
-    "Fixed: Popup — Section width conflict.",
-    "Fixed: Advanced Menu — Interactions feature not working in child elements.",
-    "Fixed: Advanced Menu — Attributes feature not working in child elements.",
-    "Fixed: Advanced Menu — Display Condition feature not working in child elements.",
-    "Fixed: Product Grid — Not working in Theme Builder.",
-    "Fixed: CPT Grid — \"Oops\" error occurs without selecting elements or post type.",
-    "Fixed: CPT Grid — Preset not working.",
-    "Fixed: CPT Filter — Alphabetic order not working.",
-    "Fixed: Compatibility — WPML support for all modules.",
-    "Fixed: Content Toggle — Library item style not working."
+    "Fixed: Compatibility — Fatal error with Divi 5.15.0 that stopped module styles from rendering."
   ]
 }
