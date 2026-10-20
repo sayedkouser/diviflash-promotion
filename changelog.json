@@ -1,7 +1,29 @@
 {
-  "version": "Version 5.6.1",
-  "date": "Sunday October 11, 2026",
+  "version": "Version 5.7.0",
+  "date": "Tuesday October 20, 2026",
+  "Introduced": [
+    "Introduced: Advanced Map Module.",
+    "Introduced: Fluent Forms Styler Module.",
+    "Introduced: Advanced Contact Form Fields Extension.",
+    "Introduced: Accessibility Toolbar Extension.",
+    "Introduced: Accessibility Checker Extension.",
+    "Introduced: Social Chat Extension."
+  ],
+  "Improved": [
+    "Improved: Advanced Menu — Lighter initial page markup; the off-canvas mobile menu is now built on demand instead of being duplicated in the initial HTML."
+  ],
   "Fixed": [
-    "Fixed: Compatibility — Fatal error with Divi 5.15.0 that stopped module styles from rendering."
+    "Fixed: Advanced Button — “Oops” error in the hover settings panel.",
+    "Fixed: Advanced Button — JavaScript issue.",
+    "Fixed: Product Grid — Visual Builder crash.",
+    "Fixed: Product Grid — Not working on subpages.",
+    "Fixed: Advanced Divider — Issue inside Popup.",
+    "Fixed: Popup — Prevent Page Scroll not working.",
+    "Fixed: Dashboard — Gradient option not working in the color picker.",
+    "Fixed: DiviFlash — Deactivating automatically.",
+    "Fixed: Security — Builder-only REST endpoints now require edit access, closing a file-read on the SVG Animator preview route.",
+    "Fixed: Security — Public CPT filter/scroll requests are restricted to front-end post types, taxonomies and a capped result count.",
+    "Fixed: Image Accordion — Title and sub-title not showing on the front end (also affected other modules that store the heading in a content group, e.g. Testimonial Carousel).",
+    "Fixed: Filterable CPT — Duplicate results when clicking Load More after a search."
   ]
 }
