@@ -1,29 +1,11 @@
 {
-  "version": "Version 5.7.0",
-  "date": "Tuesday October 20, 2026",
-  "Introduced": [
-    "Introduced: Advanced Map Module.",
-    "Introduced: Fluent Forms Styler Module.",
-    "Introduced: Advanced Contact Form Fields Extension.",
-    "Introduced: Accessibility Toolbar Extension.",
-    "Introduced: Accessibility Checker Extension.",
-    "Introduced: Social Chat Extension."
-  ],
-  "Improved": [
-    "Improved: Advanced Menu — Lighter initial page markup; the off-canvas mobile menu is now built on demand instead of being duplicated in the initial HTML."
-  ],
+  "version": "Version 5.8.1",
+  "date": "Tuesday November 10, 2026",
   "Fixed": [
-    "Fixed: Advanced Button — “Oops” error in the hover settings panel.",
-    "Fixed: Advanced Button — JavaScript issue.",
-    "Fixed: Product Grid — Visual Builder crash.",
-    "Fixed: Product Grid — Not working on subpages.",
-    "Fixed: Advanced Divider — Issue inside Popup.",
-    "Fixed: Popup — Prevent Page Scroll not working.",
-    "Fixed: Dashboard — Gradient option not working in the color picker.",
-    "Fixed: DiviFlash — Deactivating automatically.",
-    "Fixed: Security — Builder-only REST endpoints now require edit access, closing a file-read on the SVG Animator preview route.",
-    "Fixed: Security — Public CPT filter/scroll requests are restricted to front-end post types, taxonomies and a capped result count.",
-    "Fixed: Image Accordion — Title and sub-title not showing on the front end (also affected other modules that store the heading in a content group, e.g. Testimonial Carousel).",
-    "Fixed: Filterable CPT — Duplicate results when clicking Load More after a search."
+    "Fixed: MCP — Module catalogue was empty and knowledge files were corrupted in the Webstore and WPRio builds. The knowledge files now ship intact, so the full module list is available again.",
+    "Fixed: MCP — create-posts now enforces the selected post type's own permissions. Pages and internal types are refused, publishing needs that type's publish permission, and terms need assign-terms permission.",
+    "Fixed: Layout Importer — Only Theme Builder layout types can be imported, and the importing user must be allowed to create them.",
+    "Fixed: Popup CSV Import — A row can only publish if the user is allowed to publish popups; otherwise it is saved as a draft.",
+    "Fixed: Divi 5 Migration — Legacy Divi 4 shortcodes are now converted during migration, so the Backwards Compatibility Mode notice no longer appears."
   ]
 }
